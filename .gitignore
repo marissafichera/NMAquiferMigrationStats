@@ -1,3 +1,4 @@
 .idea/*
-.idea/geophydata.iml
+.idea/NMAquiferMigrationStats.iml
 .idea/misc.xml
+service_account.json
