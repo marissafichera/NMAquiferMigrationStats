@@ -1,0 +1,21 @@
+schema_name,DataSource,object_type,has_ds,has_ma
+dbo,AllWQ_CrossTab_NDs_Working,USER_TABLE,1,0
+dbo,AllWQ_CrossTab_NDs_Working_bak,USER_TABLE,1,0
+dbo,Chemistry SampleInfo,USER_TABLE,1,0
+dbo,GROUNDWATER_LEVELS,USER_TABLE,0,1
+dbo,SaltBasinWLs,USER_TABLE,1,0
+dbo,SITEWATERLEVELS,USER_TABLE,1,1
+dbo,SurfaceWaterData,USER_TABLE,1,0
+dbo,SurfaceWaterData_Corrupt_DataMissing,USER_TABLE,1,0
+dbo,Tbl_TaosWLS,USER_TABLE,1,1
+dbo,Tbl_TaosWSC,USER_TABLE,1,1
+dbo,view_SITEWATERLEVELS_Date,USER_TABLE,1,1
+dbo,WaterLevels,USER_TABLE,1,1
+dbo,WaterLevels_archive,USER_TABLE,1,1
+dbo,WaterLevels_bak,USER_TABLE,1,1
+dbo,WaterLevelsContinuous_Acoustic,USER_TABLE,1,1
+dbo,WaterLevelsContinuous_Acoustic_Daily,USER_TABLE,1,1
+dbo,WaterLevelsContinuous_Pressure,USER_TABLE,1,1
+dbo,WaterLevelsContinuous_Pressure_Daily,USER_TABLE,1,1
+dbo,WaterLevelsContinuous_Pressure_Test,USER_TABLE,1,1
+dbo,WellData,USER_TABLE,1,0

@@ -1,0 +1,10 @@
+dbo,Chemistry SampleInfo,DataSource,10596
+dbo,WaterLevels,DataSource,403372
+dbo,WaterLevels,MeasuringAgency,382721
+dbo,WaterLevelsContinuous_Acoustic,DataSource,458425
+dbo,WaterLevelsContinuous_Acoustic,MeasuringAgency,421641
+dbo,WaterLevelsContinuous_Pressure,DataSource,2529857
+dbo,WaterLevelsContinuous_Pressure,MeasuringAgency,2529857
+dbo,WaterLevelsContinuous_Pressure_Daily,DataSource,198675
+dbo,WaterLevelsContinuous_Pressure_Daily,MeasuringAgency,198675
+dbo,WellData,DataSource,36275

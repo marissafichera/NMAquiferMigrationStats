@@ -1,0 +1,19 @@
+dbo,AllWQ_CrossTab_NDs_Working
+dbo,AllWQ_CrossTab_NDs_Working_bak
+dbo,Chemistry SampleInfo
+dbo,SaltBasinWLs
+dbo,SITEWATERLEVELS
+dbo,SurfaceWaterData
+dbo,SurfaceWaterData_Corrupt_DataMissing
+dbo,Tbl_TaosWLS
+dbo,Tbl_TaosWSC
+dbo,view_SITEWATERLEVELS_Date
+dbo,WaterLevels
+dbo,WaterLevels_archive
+dbo,WaterLevels_bak
+dbo,WaterLevelsContinuous_Acoustic
+dbo,WaterLevelsContinuous_Acoustic_Daily
+dbo,WaterLevelsContinuous_Pressure
+dbo,WaterLevelsContinuous_Pressure_Daily
+dbo,WaterLevelsContinuous_Pressure_Test
+dbo,WellData
