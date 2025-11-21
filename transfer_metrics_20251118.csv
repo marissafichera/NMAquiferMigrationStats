@@ -1,0 +1,827 @@
+model|input_count|cleaned_count|transferred|issue_percentage
+Well|38541|8180|7697|5.9046454767726155
+PointID|Table|Field|Error
+PP-040|WellData||measuring_point_height: Input should be a valid number
+AR-0204|WellData||measuring_point_height: Input should be a valid number
+NM-28455|WellData||measuring_point_height: Input should be a valid number
+EB-315|WellData||measuring_point_height: Input should be greater than or equal to 0
+DA-0205|WellData||measuring_point_height: Input should be a valid number
+EB-290|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-074|WellData||measuring_point_height: Input should be a valid number
+TO-0532|WellData||measuring_point_height: Input should be a valid number
+AR-0178|WellData||measuring_point_height: Input should be a valid number
+DA-0200|WellData||measuring_point_height: Input should be a valid number
+AH-063|WellData||measuring_point_height: Input should be a valid number
+AH-069|WellData||measuring_point_height: Input should be a valid number
+EB-368|WellData||measuring_point_height: Input should be greater than or equal to 0
+TB-0257|WellData||measuring_point_height: Input should be a valid number
+DA-0197|WellData||measuring_point_height: Input should be a valid number
+EB-453|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-082|WellData||measuring_point_height: Input should be a valid number
+NM-23353|WellData||Value error, well casing depth must be less than or equal to hole depth
+WL-0133|WellData||measuring_point_height: Input should be a valid number
+TC-250|WellData||measuring_point_height: Input should be a valid number
+TV-197|WellData||measuring_point_height: Input should be greater than or equal to 0
+WL-0207|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0188|WellData||measuring_point_height: Input should be a valid number
+NM-26757|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-259|WellData||measuring_point_height: Input should be greater than or equal to 0
+TC-357|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-011|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-418|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-204|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-015|WellData||measuring_point_height: Input should be a valid number
+AR-0181|WellData||measuring_point_height: Input should be greater than or equal to 0
+BC-0414|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-062|WellData||measuring_point_height: Input should be a valid number
+WL-0351|WellData||measuring_point_height: Input should be a valid number
+AR-0199|WellData||measuring_point_height: Input should be a valid number
+WL-0070|WellData||measuring_point_height: Input should be a valid number
+WL-0269|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0184|WellData||measuring_point_height: Input should be a valid number
+AH-097|WellData||measuring_point_height: Input should be a valid number
+PP-004|WellData||measuring_point_height: Input should be a valid number
+PP-070|WellData||measuring_point_height: Input should be a valid number
+CP-0008|WellData||measuring_point_height: Input should be a valid number
+PP-067|WellData||measuring_point_height: Input should be a valid number
+AH-096|WellData||measuring_point_height: Input should be a valid number
+EB-093|WellData||measuring_point_height: Input should be greater than or equal to 0
+DA-0047|WellData|PointID|duplicate records
+AH-088|WellData||measuring_point_height: Input should be a valid number
+EB-273|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-584|WellData||measuring_point_height: Input should be greater than or equal to 0
+AS-066|WellData||Value error, well casing depth must be less than or equal to hole depth
+EB-601|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0518|WellData||measuring_point_height: Input should be a valid number
+NM-26551|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-593|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-423|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0152|WellData||measuring_point_height: Input should be a valid number
+EB-422|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-594|WellData||Value error, well depth must be less than than or equal to hole depth
+AH-058|WellData||measuring_point_height: Input should be a valid number
+EB-229|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-052|WellData||measuring_point_height: Input should be a valid number
+NM-28448|WellData||measuring_point_height: Input should be a valid number
+AH-078|WellData||measuring_point_height: Input should be a valid number
+PP-013|WellData||measuring_point_height: Input should be a valid number
+AR-0195|WellData||measuring_point_height: Input should be a valid number
+EB-230|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-159|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-063|WellData||measuring_point_height: Input should be a valid number
+AR-0136|WellData||measuring_point_height: Input should be a valid number
+TO-0550|WellData||measuring_point_height: Input should be a valid number
+AR-0127|WellData||measuring_point_height: Input should be a valid number
+EB-187|WellData||measuring_point_height: Input should be greater than or equal to 0
+DA-0047|WellData|PointID|duplicate records
+QU-150|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0150|WellData||measuring_point_height: Input should be a valid number
+AR-0170|WellData||measuring_point_height: Input should be a valid number
+QU-151|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0551|WellData||measuring_point_height: Input should be a valid number
+WL-0202|WellData||measuring_point_height: Input should be a valid number
+EB-354|WellData||measuring_point_height: Input should be greater than or equal to 0
+CP-0004|WellData||measuring_point_height: Input should be a valid number
+HS-076|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-024|WellData||measuring_point_height: Input should be a valid number
+EB-614|WellData||Value error, well casing depth must be less than or equal to hole depth
+TV-108|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-583|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-303|WellData||measuring_point_height: Input should be greater than or equal to 0
+SM-0149|WellData||measuring_point_height: Input should be a valid number
+BC-0367|WellData||measuring_point_height: Input should be a valid number
+AR-0201|WellData||measuring_point_height: Input should be a valid number
+AR-0200|WellData||measuring_point_height: Input should be a valid number
+TB-0261|WellData||measuring_point_height: Input should be a valid number
+EB-323|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0529|WellData||measuring_point_height: Input should be a valid number
+AR-0125|WellData||measuring_point_height: Input should be a valid number
+AH-072|WellData||measuring_point_height: Input should be a valid number
+TO-0555|WellData||measuring_point_height: Input should be a valid number
+EB-293|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0176|WellData||measuring_point_height: Input should be a valid number
+BC-0129|WellData||measuring_point_height: Input should be greater than or equal to 0
+WL-0173|WellData||measuring_point_height: Input should be a valid number
+QU-021|WellData||measuring_point_height: Input should be a valid number
+NM-26755|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-084|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0557|WellData||measuring_point_height: Input should be a valid number
+TC-236|WellData||measuring_point_height: Input should be a valid number
+WL-0050|WellData||measuring_point_height: Input should be greater than or equal to 0
+NM-28454|WellData||measuring_point_height: Input should be a valid number
+AR-0138|WellData||measuring_point_height: Input should be a valid number
+WL-0015|WellData||measuring_point_height: Input should be greater than or equal to 0
+WL-0197|WellData||measuring_point_height: Input should be a valid number
+WL-0170|WellData||measuring_point_height: Input should be a valid number
+AR-0192|WellData||measuring_point_height: Input should be a valid number
+PP-016|WellData||measuring_point_height: Input should be a valid number
+WL-0350|WellData||measuring_point_height: Input should be a valid number
+PP-033|WellData||measuring_point_height: Input should be a valid number
+AR-0153|WellData||measuring_point_height: Input should be a valid number
+AR-0202|WellData||measuring_point_height: Input should be a valid number
+WL-0141|WellData||measuring_point_height: Input should be greater than or equal to 0
+DA-0203|WellData||measuring_point_height: Input should be a valid number
+PP-009|WellData||measuring_point_height: Input should be a valid number
+AH-059|WellData||measuring_point_height: Input should be a valid number
+PP-042|WellData||measuring_point_height: Input should be a valid number
+TO-0503|WellData||measuring_point_height: Input should be a valid number
+WL-0359|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-053|WellData||measuring_point_height: Input should be a valid number
+TO-0554|WellData||measuring_point_height: Input should be a valid number
+PP-066|WellData||measuring_point_height: Input should be a valid number
+NM-28453|WellData||measuring_point_height: Input should be a valid number
+AH-081|WellData||measuring_point_height: Input should be a valid number
+EB-424|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0501|WellData||measuring_point_height: Input should be a valid number
+EB-420|WellData||measuring_point_height: Input should be greater than or equal to 0
+TC-405|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-067|WellData||measuring_point_height: Input should be a valid number
+PP-056|WellData||measuring_point_height: Input should be a valid number
+AH-094|WellData||measuring_point_height: Input should be a valid number
+SM-0234|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0510|WellData||measuring_point_height: Input should be a valid number
+AH-100|WellData||measuring_point_height: Input should be a valid number
+AR-0119|WellData||measuring_point_height: Input should be a valid number
+DA-0204|WellData||measuring_point_height: Input should be a valid number
+NM-28457|WellData||measuring_point_height: Input should be a valid number
+AH-099|WellData||measuring_point_height: Input should be a valid number
+AR-0175|WellData||measuring_point_height: Input should be a valid number
+TC-317|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-049|WellData||measuring_point_height: Input should be a valid number
+SM-0079|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-186|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0544|WellData||measuring_point_height: Input should be a valid number
+AR-0180|WellData||measuring_point_height: Input should be a valid number
+BC-0235|WellData||measuring_point_height: Input should be greater than or equal to 0
+SV-0125|WellData||Value error, well casing depth must be less than or equal to hole depth
+TO-0542|WellData||measuring_point_height: Input should be a valid number
+EB-586|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0559|WellData||measuring_point_height: Input should be a valid number
+WL-0069|WellData||measuring_point_height: Input should be a valid number
+AR-0191|WellData||measuring_point_height: Input should be a valid number
+DA-0199|WellData||measuring_point_height: Input should be a valid number
+AR-0177|WellData||measuring_point_height: Input should be a valid number
+TO-0516|WellData||measuring_point_height: Input should be a valid number
+TV-229|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-007|WellData||measuring_point_height: Input should be a valid number
+EB-107|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-084|WellData||measuring_point_height: Input should be a valid number
+TO-0498|WellData||measuring_point_height: Input should be a valid number
+AH-109|WellData||measuring_point_height: Input should be a valid number
+WL-0004|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-241|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-014|WellData||measuring_point_height: Input should be a valid number
+AH-079|WellData||measuring_point_height: Input should be a valid number
+TO-0531|WellData||measuring_point_height: Input should be a valid number
+CP-0019|WellData||measuring_point_height: Input should be a valid number
+TC-313|WellData||measuring_point_height: Input should be a valid number
+EB-009|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-367|WellData||measuring_point_height: Input should be greater than or equal to 0
+TV-119|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-043|WellData||measuring_point_height: Input should be a valid number
+AR-0123|WellData||measuring_point_height: Input should be a valid number
+EB-085|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-092|WellData||measuring_point_height: Input should be a valid number
+QU-158|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0552|WellData||measuring_point_height: Input should be a valid number
+AR-0182|WellData||measuring_point_height: Input should be a valid number
+PP-050|WellData||measuring_point_height: Input should be a valid number
+PP-065|WellData||measuring_point_height: Input should be a valid number
+AH-085|WellData||measuring_point_height: Input should be a valid number
+TO-0523|WellData||measuring_point_height: Input should be a valid number
+AH-090|WellData||measuring_point_height: Input should be a valid number
+EB-432|WellData||measuring_point_height: Input should be greater than or equal to 0
+WL-0129|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-019|WellData||measuring_point_height: Input should be a valid number
+WL-0305|WellData||measuring_point_height: Input should be a valid number
+TO-0500|WellData||measuring_point_height: Input should be a valid number
+AR-0197|WellData||measuring_point_height: Input should be a valid number
+TC-420|WellData||measuring_point_height: Input should be a valid number
+AH-068|WellData||measuring_point_height: Input should be a valid number
+PP-035|WellData||measuring_point_height: Input should be a valid number
+AR-0171|WellData||measuring_point_height: Input should be a valid number
+TC-280|WellData||measuring_point_height: Input should be a valid number
+TO-0534|WellData||measuring_point_height: Input should be a valid number
+NM-28447|WellData||measuring_point_height: Input should be a valid number
+TB-0263|WellData||measuring_point_height: Input should be a valid number
+AH-087|WellData||measuring_point_height: Input should be a valid number
+TO-0535|WellData||measuring_point_height: Input should be a valid number
+QY-0726|WellData||Value error, well casing depth must be less than or equal to hole depth
+PP-020|WellData||measuring_point_height: Input should be a valid number
+TC-417|WellData||measuring_point_height: Input should be a valid number
+QU-019|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0205|WellData||measuring_point_height: Input should be a valid number
+WL-0340|WellData||measuring_point_height: Input should be greater than or equal to 0
+TC-399|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0508|WellData||measuring_point_height: Input should be a valid number
+EB-206|WellData||measuring_point_height: Input should be greater than or equal to 0
+JM-056|WellData||measuring_point_height: Input should be a valid number
+AR-0158|WellData||measuring_point_height: Input should be a valid number
+AR-0145|WellData||measuring_point_height: Input should be a valid number
+EB-294|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0548|WellData||measuring_point_height: Input should be a valid number
+TO-0524|WellData||measuring_point_height: Input should be a valid number
+WL-0319|WellData||measuring_point_height: Input should be greater than or equal to 0
+SM-0193|WellData||measuring_point_height: Input should be a valid number
+EB-021|WellData||measuring_point_height: Input should be greater than or equal to 0
+CP-0013|WellData||measuring_point_height: Input should be a valid number
+AR-0159|WellData||measuring_point_height: Input should be a valid number
+SM-0138|WellData||measuring_point_height: Input should be a valid number
+AR-0141|WellData||measuring_point_height: Input should be a valid number
+TO-0556|WellData||measuring_point_height: Input should be a valid number
+AH-108|WellData||measuring_point_height: Input should be a valid number
+TC-356|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-044|WellData||measuring_point_height: Input should be a valid number
+PP-064|WellData||measuring_point_height: Input should be a valid number
+PP-047|WellData||measuring_point_height: Input should be a valid number
+AH-073|WellData||measuring_point_height: Input should be a valid number
+WL-0326|WellData||measuring_point_height: Input should be a valid number
+AR-0179|WellData||measuring_point_height: Input should be a valid number
+EB-312|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0185|WellData||measuring_point_height: Input should be a valid number
+WL-0201|WellData||measuring_point_height: Input should be a valid number
+EB-256|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0160|WellData||measuring_point_height: Input should be a valid number
+DA-0202|WellData||measuring_point_height: Input should be a valid number
+AR-0203|WellData||measuring_point_height: Input should be a valid number
+AH-098|WellData||measuring_point_height: Input should be a valid number
+EB-103|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0186|WellData||measuring_point_height: Input should be a valid number
+TO-0546|WellData||measuring_point_height: Input should be a valid number
+WL-0289|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0167|WellData||measuring_point_height: Input should be a valid number
+TO-0540|WellData||measuring_point_height: Input should be a valid number
+TB-0259|WellData||measuring_point_height: Input should be a valid number
+AR-0146|WellData||measuring_point_height: Input should be a valid number
+TO-0530|WellData||measuring_point_height: Input should be a valid number
+TC-242|WellData||measuring_point_height: Input should be a valid number
+TO-0553|WellData||measuring_point_height: Input should be a valid number
+NM-28297|WellData||measuring_point_height: Input should be a valid number
+QU-025|WellData||measuring_point_height: Input should be a valid number
+AH-056|WellData||measuring_point_height: Input should be a valid number
+AR-0166|WellData||measuring_point_height: Input should be a valid number
+EB-198|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0528|WellData||measuring_point_height: Input should be a valid number
+NM-26883|WellData||Value error, well casing depth must be less than or equal to hole depth
+AH-057|WellData||measuring_point_height: Input should be a valid number
+PP-061|WellData||measuring_point_height: Input should be a valid number
+EB-342|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-064|WellData||measuring_point_height: Input should be a valid number
+EB-023|WellData||measuring_point_height: Input should be greater than or equal to 0
+QU-153|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-243|WellData||measuring_point_height: Input should be greater than or equal to 0
+NM-27127|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0147|WellData||measuring_point_height: Input should be a valid number
+PP-010|WellData||measuring_point_height: Input should be a valid number
+AR-0149|WellData||measuring_point_height: Input should be a valid number
+WL-0122|WellData||measuring_point_height: Input should be greater than or equal to 0
+WL-0230|WellData||measuring_point_height: Input should be a valid number
+QU-175|WellData||measuring_point_height: Input should be a valid number
+TO-0536|WellData||measuring_point_height: Input should be a valid number
+EB-190|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0139|WellData||measuring_point_height: Input should be a valid number
+AR-0198|WellData||measuring_point_height: Input should be a valid number
+NM-28249|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0517|WellData||measuring_point_height: Input should be a valid number
+LC-025|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0511|WellData||measuring_point_height: Input should be a valid number
+AR-0124|WellData||measuring_point_height: Input should be a valid number
+EB-509|WellData||Value error, well depth must be less than than or equal to hole depth
+PP-021|WellData||measuring_point_height: Input should be a valid number
+TO-0513|WellData||measuring_point_height: Input should be a valid number
+TO-0538|WellData||measuring_point_height: Input should be a valid number
+WL-0047|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0120|WellData||Value error, well casing depth must be less than or equal to hole depth
+AR-0168|WellData||measuring_point_height: Input should be a valid number
+EB-335|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-086|WellData||measuring_point_height: Input should be a valid number
+AR-0142|WellData||measuring_point_height: Input should be a valid number
+AR-0164|WellData||measuring_point_height: Input should be a valid number
+AH-076|WellData||measuring_point_height: Input should be a valid number
+EB-014|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-062|WellData||measuring_point_height: Input should be a valid number
+AH-080|WellData||measuring_point_height: Input should be a valid number
+SA-0026|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0525|WellData||measuring_point_height: Input should be a valid number
+SV-0012|WellData||Value error, well depth must be less than than or equal to hole depth
+PP-041|WellData||measuring_point_height: Input should be a valid number
+PP-057|WellData||measuring_point_height: Input should be a valid number
+TO-0543|WellData||measuring_point_height: Input should be a valid number
+EB-436|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-430|WellData||measuring_point_height: Input should be greater than or equal to 0
+TC-340|WellData||measuring_point_height: Input should be greater than or equal to 0
+TB-0258|WellData||measuring_point_height: Input should be a valid number
+TO-0515|WellData||measuring_point_height: Input should be a valid number
+PP-068|WellData||measuring_point_height: Input should be a valid number
+WL-0302|WellData||measuring_point_height: Input should be a valid number
+TV-201|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0132|WellData||measuring_point_height: Input should be a valid number
+PP-012|WellData||measuring_point_height: Input should be a valid number
+AH-065|WellData||measuring_point_height: Input should be a valid number
+PP-045|WellData||measuring_point_height: Input should be a valid number
+QY-0727|WellData||Value error, well casing depth must be less than or equal to hole depth
+NM-28451|WellData||measuring_point_height: Input should be a valid number
+TO-0527|WellData||measuring_point_height: Input should be a valid number
+PP-025|WellData||measuring_point_height: Input should be a valid number
+AR-0137|WellData||measuring_point_height: Input should be a valid number
+TO-0505|WellData||measuring_point_height: Input should be a valid number
+TC-416|WellData||measuring_point_height: Input should be a valid number
+EB-216|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-441|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-061|WellData||measuring_point_height: Input should be a valid number
+GT-003|WellData||measuring_point_height: Input should be a valid number
+SB-0915|WellData||measuring_point_height: Input should be a valid number
+BC-0108|WellData||measuring_point_height: Input should be greater than or equal to 0
+NM-28450|WellData||measuring_point_height: Input should be a valid number
+PP-032|WellData||measuring_point_height: Input should be a valid number
+WL-0268|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-363|WellData||Value error, well casing depth must be less than or equal to hole depth
+PP-002|WellData||measuring_point_height: Input should be a valid number
+AR-0140|WellData||measuring_point_height: Input should be a valid number
+AR-0157|WellData||measuring_point_height: Input should be a valid number
+EB-022|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-443|WellData||measuring_point_height: Input should be greater than or equal to 0
+QU-152|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-132|WellData||measuring_point_height: Input should be greater than or equal to 0
+TB-0262|WellData||measuring_point_height: Input should be a valid number
+AH-091|WellData||measuring_point_height: Input should be a valid number
+TO-0561|WellData||measuring_point_height: Input should be a valid number
+WL-0165|WellData||measuring_point_height: Input should be a valid number
+WL-0237|WellData||measuring_point_height: Input should be greater than or equal to 0
+NM-28437|WellData||measuring_point_height: Input should be a valid number
+EB-239|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-444|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-093|WellData||measuring_point_height: Input should be a valid number
+DA-0198|WellData||measuring_point_height: Input should be a valid number
+TO-0558|WellData||measuring_point_height: Input should be a valid number
+PP-037|WellData||Value error, well casing depth must be less than or equal to hole depth
+AH-103|WellData||measuring_point_height: Input should be a valid number
+WL-0084|WellData||measuring_point_height: Input should be a valid number
+TO-0506|WellData||measuring_point_height: Input should be a valid number
+AR-0155|WellData||measuring_point_height: Input should be a valid number
+TV-196|WellData||measuring_point_height: Input should be greater than or equal to 0
+TC-418|WellData||measuring_point_height: Input should be a valid number
+TC-419|WellData||measuring_point_height: Input should be a valid number
+TB-0260|WellData||measuring_point_height: Input should be a valid number
+TO-0502|WellData||measuring_point_height: Input should be a valid number
+AH-060|WellData||measuring_point_height: Input should be a valid number
+BC-0006|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-188|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0129|WellData||measuring_point_height: Input should be a valid number
+BC-0270|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0522|WellData||measuring_point_height: Input should be a valid number
+EB-421|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0117|WellData||measuring_point_height: Input should be a valid number
+WL-0339|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-089|WellData||measuring_point_height: Input should be a valid number
+AH-070|WellData||measuring_point_height: Input should be a valid number
+TO-0526|WellData||measuring_point_height: Input should be a valid number
+AR-0174|WellData||measuring_point_height: Input should be a valid number
+PP-034|WellData||measuring_point_height: Input should be a valid number
+PP-051|WellData||measuring_point_height: Input should be a valid number
+AH-101|WellData||measuring_point_height: Input should be a valid number
+SM-0171|WellData||measuring_point_height: Input should be a valid number
+AR-0183|WellData||measuring_point_height: Input should be a valid number
+EB-080|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-102|WellData||measuring_point_height: Input should be a valid number
+TO-0509|WellData||measuring_point_height: Input should be a valid number
+TC-414|WellData||measuring_point_height: Input should be a valid number
+TC-415|WellData||measuring_point_height: Input should be a valid number
+EB-272|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-333|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0165|WellData||measuring_point_height: Input should be a valid number
+TO-0541|WellData||measuring_point_height: Input should be a valid number
+QY-0288|WellData||Value error, well casing depth must be less than or equal to hole depth
+AR-0194|WellData||measuring_point_height: Input should be a valid number
+TO-0519|WellData||measuring_point_height: Input should be a valid number
+EB-112|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0121|WellData||measuring_point_height: Input should be a valid number
+TO-0533|WellData||measuring_point_height: Input should be a valid number
+QU-016|WellData||measuring_point_height: Input should be greater than or equal to 0
+SM-0240|WellData||measuring_point_height: Input should be a valid number
+AR-0193|WellData||measuring_point_height: Input should be a valid number
+EB-228|WellData||measuring_point_height: Input should be greater than or equal to 0
+NM-28449|WellData||measuring_point_height: Input should be a valid number
+AR-0189|WellData||measuring_point_height: Input should be a valid number
+TO-0520|WellData||measuring_point_height: Input should be a valid number
+AR-0154|WellData||measuring_point_height: Input should be a valid number
+AR-0196|WellData||measuring_point_height: Input should be a valid number
+SA-0019|WellData||Value error, well casing depth must be less than or equal to hole depth
+WL-0082|WellData||measuring_point_height: Input should be a valid number
+EB-419|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0560|WellData||measuring_point_height: Input should be a valid number
+EB-195|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-469|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0172|WellData||measuring_point_height: Input should be a valid number
+WL-0060|WellData||measuring_point_height: Input should be greater than or equal to 0
+SM-0175|WellData||measuring_point_height: Input should be a valid number
+EB-237|WellData||measuring_point_height: Input should be greater than or equal to 0
+NM-23288|WellData||Value error, well casing depth must be less than or equal to hole depth
+TO-0514|WellData||measuring_point_height: Input should be a valid number
+TO-0545|WellData||measuring_point_height: Input should be a valid number
+WL-0006|WellData||measuring_point_height: Input should be a valid number
+EB-109|WellData||measuring_point_height: Input should be greater than or equal to 0
+AR-0126|WellData||measuring_point_height: Input should be a valid number
+AR-0163|WellData||measuring_point_height: Input should be a valid number
+WL-0318|WellData||measuring_point_height: Input should be greater than or equal to 0
+SM-0218|WellData||measuring_point_height: Input should be a valid number
+SM-0049|WellData||Value error, well casing depth must be less than or equal to hole depth
+TO-0504|WellData||measuring_point_height: Input should be a valid number
+SO-0275|WellData||Value error, measuring point height must be less than hole depth
+PP-001|WellData||measuring_point_height: Input should be a valid number
+TO-0549|WellData||measuring_point_height: Input should be a valid number
+SM-0140|WellData||measuring_point_height: Input should be a valid number
+BC-0019|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-602|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-104|WellData||measuring_point_height: Input should be a valid number
+TO-0547|WellData||measuring_point_height: Input should be a valid number
+EB-185|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-071|WellData||measuring_point_height: Input should be a valid number
+WL-0034|WellData||measuring_point_height: Input should be a valid number
+SM-0152|WellData||measuring_point_height: Input should be a valid number
+AR-0128|WellData||measuring_point_height: Input should be a valid number
+TC-361|WellData||measuring_point_height: Input should be greater than or equal to 0
+TO-0507|WellData||measuring_point_height: Input should be a valid number
+TB-0264|WellData||measuring_point_height: Input should be a valid number
+PP-055|WellData||measuring_point_height: Input should be a valid number
+WL-0011|WellData||measuring_point_height: Input should be a valid number
+QY-0902|WellData||Value error, well casing depth must be less than or equal to hole depth
+EB-433|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-426|WellData||measuring_point_height: Input should be greater than or equal to 0
+EB-016|WellData||measuring_point_height: Input should be greater than or equal to 0
+BC-0282|WellData||measuring_point_height: Input should be greater than or equal to 0
+CP-0007|WellData||measuring_point_height: Input should be a valid number
+TO-0521|WellData||measuring_point_height: Input should be a valid number
+EB-063|WellData||measuring_point_height: Input should be greater than or equal to 0
+CP-0014|WellData||measuring_point_height: Input should be a valid number
+CP-0005|WellData||measuring_point_height: Input should be a valid number
+EB-225|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-105|WellData||measuring_point_height: Input should be a valid number
+EB-417|WellData||measuring_point_height: Input should be greater than or equal to 0
+WL-0135|WellData||measuring_point_height: Input should be a valid number
+TO-0539|WellData||measuring_point_height: Input should be a valid number
+EB-454|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-066|WellData||measuring_point_height: Input should be a valid number
+PP-048|WellData||measuring_point_height: Input should be a valid number
+AR-0206|WellData||measuring_point_height: Input should be a valid number
+AH-107|WellData||measuring_point_height: Input should be a valid number
+WL-0113|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-075|WellData||measuring_point_height: Input should be a valid number
+TC-311|WellData||measuring_point_height: Input should be a valid number
+AR-0130|WellData||measuring_point_height: Input should be a valid number
+AH-106|WellData||measuring_point_height: Input should be a valid number
+NM-28456|WellData||measuring_point_height: Input should be a valid number
+EB-013|WellData||measuring_point_height: Input should be greater than or equal to 0
+PP-060|WellData||measuring_point_height: Input should be a valid number
+EB-316|WellData||measuring_point_height: Input should be greater than or equal to 0
+SA-0009|WellData||measuring_point_height: Input should be greater than or equal to 0
+SA-0319|WellData||Value error, well casing depth must be less than or equal to hole depth
+WL-0180|WellData||measuring_point_height: Input should be greater than or equal to 0
+DA-0201|WellData||measuring_point_height: Input should be a valid number
+TO-0512|WellData||measuring_point_height: Input should be a valid number
+EB-442|WellData||measuring_point_height: Input should be greater than or equal to 0
+AH-077|WellData||measuring_point_height: Input should be a valid number
+TO-0537|WellData||measuring_point_height: Input should be a valid number
+AH-083|WellData||measuring_point_height: Input should be a valid number
+PP-046|WellData||measuring_point_height: Input should be a valid number
+
+WellScreen|3714|2204|2191|0.58983666061706
+PointID|Table|Field|Error
+EB-029|WellScreens||screen_depth_bottom: Input should be a valid number
+WL-0096|WellScreens||Value error, screen_depth_bottom must be greater than screen_depth_top
+WL-0358|WellScreens||screen_depth_bottom: Input should be a valid number
+WL-0358|WellScreens||screen_depth_top: Input should be a valid number
+NM-27235|WellScreens||Value error, screen_depth_bottom must be greater than screen_depth_top
+QY-0622|WellScreens||screen_depth_top: Input should be greater than 0
+EB-394|WellScreens||screen_depth_bottom: Input should be a valid number
+EB-394|WellScreens||screen_depth_bottom: Input should be a valid number
+SA-0318|WellScreens||screen_depth_top: Input should be greater than 0
+NM-00253|WellScreens||screen_depth_top: Input should be greater than 0
+EB-096|WellScreens||Value error, screen_depth_bottom must be greater than screen_depth_top
+SV-0111|WellScreens||Value error, screen_depth_bottom must be greater than screen_depth_top
+TB-0107|WellScreens||screen_depth_top: Input should be greater than 0
+QY-0494|WellScreens||screen_depth_top: Input should be greater than 0
+
+Sensor|981|720|380|47.22222222222222
+PointID|Table|Field|Error
+BC-0166|Equipment|RecordingInterval|row.ID=939, row.SerialNo=1JRZ3K9C/363FGBAX. RecordingInterval is not an integer
+EB-220|Equipment|RecordingInterval|row.ID=42, row.SerialNo=D2271. RecordingInterval is not an integer
+EB-220|Equipment|RecordingInterval|row.ID=43, row.SerialNo=78575. RecordingInterval is not an integer
+EB-220|Equipment|RecordingInterval|row.ID=44, row.SerialNo=L1306. RecordingInterval is not an integer
+HS-038|Equipment|RecordingInterval|row.ID=42, row.SerialNo=J3409. RecordingInterval is not an integer
+HS-038|Equipment|RecordingInterval|row.ID=222, row.SerialNo=A8779. RecordingInterval is not an integer
+MG-038|Equipment|RecordingInterval|row.ID=621, row.SerialNo=S1516. RecordingInterval is not an integer
+NM-26614|Equipment|RecordingInterval|row.ID=898, row.SerialNo=1234. RecordingInterval is not an integer
+SA-0163|Equipment|RecordingInterval|row.ID=45, row.SerialNo=F3471. RecordingInterval is not an integer
+SA-0163|Equipment|RecordingInterval|row.ID=44, row.SerialNo=D9762. RecordingInterval is not an integer
+SA-0174|Equipment|RecordingInterval|row.ID=47, row.SerialNo=G1547. RecordingInterval is not an integer
+SA-0174|Equipment|RecordingInterval|row.ID=48, row.SerialNo=G1241. RecordingInterval is not an integer
+SA-0240|Equipment|RecordingInterval|row.ID=586, row.SerialNo=1JRTNRTX. RecordingInterval is not an integer
+SM-0033|Equipment|RecordingInterval|row.ID=452, row.SerialNo=78181. RecordingInterval is not an integer
+SM-0055|Equipment|RecordingInterval|row.ID=444, row.SerialNo=74683. RecordingInterval is not an integer
+SM-0055|Equipment|RecordingInterval|row.ID=445, row.SerialNo=C1362. RecordingInterval is not an integer
+SM-0055|Equipment|RecordingInterval|row.ID=136, row.SerialNo=DXT-1715. RecordingInterval is not an integer
+SM-0055|Equipment|RecordingInterval|row.ID=135, row.SerialNo=M6991. RecordingInterval is not an integer
+SM-0232|Equipment|RecordingInterval|row.ID=448, row.SerialNo=80824. RecordingInterval is not an integer
+SM-0235|Equipment|RecordingInterval|row.ID=866, row.SerialNo=1JW82U77. RecordingInterval is not an integer
+SM-0235|Equipment|RecordingInterval|row.ID=935, row.SerialNo=14002762. RecordingInterval is not an integer
+SM-0243|Equipment|RecordingInterval|row.ID=450, row.SerialNo=D2271. RecordingInterval is not an integer
+SM-0246|Equipment|RecordingInterval|row.ID=451, row.SerialNo=D2262. RecordingInterval is not an integer
+SM-0246|Equipment|RecordingInterval|row.ID=133, row.SerialNo=M7059. RecordingInterval is not an integer
+SM-0257|Equipment|RecordingInterval|row.ID=9, row.SerialNo=801888. RecordingInterval is not an integer
+SM-0257|Equipment|RecordingInterval|row.ID=10, row.SerialNo=911226. RecordingInterval is not an integer
+SM-0257|Equipment|RecordingInterval|row.ID=1, row.SerialNo=D8999. RecordingInterval is not an integer
+SM-0257|Equipment|DateInstalled|row.ID=17, row.SerialNo=B5546. Installation Date cannot be None
+SM-0258|Equipment|RecordingInterval|row.ID=7, row.SerialNo=801887. RecordingInterval is not an integer
+SM-0258|Equipment|RecordingInterval|row.ID=8, row.SerialNo=911227. RecordingInterval is not an integer
+SM-0258|Equipment|RecordingInterval|row.ID=2, row.SerialNo=G1487. RecordingInterval is not an integer
+SM-0259|Equipment|RecordingInterval|row.ID=4, row.SerialNo=B5546. RecordingInterval is not an integer
+SM-0259|Equipment|RecordingInterval|row.ID=3, row.SerialNo=B6823. RecordingInterval is not an integer
+SO-0125|Equipment|RecordingInterval|row.ID=1024, row.SerialNo=BK306. RecordingInterval is not an integer
+SO-0125|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0125|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0129|Equipment|RecordingInterval|row.ID=814, row.SerialNo=V3026. RecordingInterval is not an integer
+SO-0131|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0131|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0131|Equipment|RecordingInterval|row.ID=1025, row.SerialNo=FB368. RecordingInterval is not an integer
+SO-0140|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0140|Equipment|RecordingInterval|row.ID=1026, row.SerialNo=FB466. RecordingInterval is not an integer
+SO-0140|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0142|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0142|Equipment|RecordingInterval|row.ID=1027, row.SerialNo=AK438. RecordingInterval is not an integer
+SO-0142|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0144|Equipment|RecordingInterval|row.ID=1028, row.SerialNo=BA545. RecordingInterval is not an integer
+SO-0144|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0144|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0145|Equipment|RecordingInterval|row.ID=1029, row.SerialNo=BB047. RecordingInterval is not an integer
+SO-0145|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0146|Equipment|RecordingInterval|row.ID=1030, row.SerialNo=FB467. RecordingInterval is not an integer
+SO-0146|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0146|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0148|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0148|Equipment|RecordingInterval|row.ID=1031, row.SerialNo=FB469. RecordingInterval is not an integer
+SO-0148|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0160|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0160|Equipment|RecordingInterval|row.ID=1032, row.SerialNo=FB470. RecordingInterval is not an integer
+SO-0160|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0163|Equipment|RecordingInterval|row.ID=1033, row.SerialNo=FB472. RecordingInterval is not an integer
+SO-0163|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0163|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0165|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0165|Equipment|RecordingInterval|row.ID=1034, row.SerialNo=FB474. RecordingInterval is not an integer
+SO-0165|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0166|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0166|Equipment|RecordingInterval|row.ID=1035, row.SerialNo=FB473. RecordingInterval is not an integer
+SO-0167|Equipment|RecordingInterval|row.ID=270, row.SerialNo=0121052330. RecordingInterval is not an integer
+SO-0167|Equipment|RecordingInterval|row.ID=802, row.SerialNo=V2998. RecordingInterval is not an integer
+SO-0167|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0167|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0167|Equipment|RecordingInterval|row.ID=1036, row.SerialNo=FB463. RecordingInterval is not an integer
+SO-0168|Equipment|DateInstalled|row.ID=524, row.SerialNo=9736317. Installation Date cannot be None
+SO-0169|Equipment|RecordingInterval|row.ID=801, row.SerialNo=V3063. RecordingInterval is not an integer
+SO-0169|Equipment|DateInstalled|row.ID=279, row.SerialNo=9736315. Installation Date cannot be None
+SO-0170|Equipment|RecordingInterval|row.ID=803, row.SerialNo=V3070. RecordingInterval is not an integer
+SO-0170|Equipment|RecordingInterval|row.ID=1037, row.SerialNo=FB464. RecordingInterval is not an integer
+SO-0170|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0170|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0171|Equipment|RecordingInterval|row.ID=813, row.SerialNo=V3318. RecordingInterval is not an integer
+SO-0175|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0175|Equipment|RecordingInterval|row.ID=1038, row.SerialNo=AK511. RecordingInterval is not an integer
+SO-0175|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0177|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0177|Equipment|RecordingInterval|row.ID=1039, row.SerialNo=BK307. RecordingInterval is not an integer
+SO-0177|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0189|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0189|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0189|Equipment|RecordingInterval|row.ID=1040, row.SerialNo=AF158. RecordingInterval is not an integer
+SO-0190|Equipment|RecordingInterval|row.ID=1041, row.SerialNo=AK454. RecordingInterval is not an integer
+SO-0190|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0191|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0191|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0191|Equipment|RecordingInterval|row.ID=1042, row.SerialNo=FB439. RecordingInterval is not an integer
+SO-0194|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0194|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0194|Equipment|RecordingInterval|row.ID=1043, row.SerialNo=FB442. RecordingInterval is not an integer
+SO-0200|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0200|Equipment|RecordingInterval|row.ID=1044, row.SerialNo=FB433. RecordingInterval is not an integer
+SO-0200|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0204|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0204|Equipment|RecordingInterval|row.ID=1045, row.SerialNo=FB436. RecordingInterval is not an integer
+SO-0204|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0213|Equipment|RecordingInterval|row.ID=1046, row.SerialNo=FB478. RecordingInterval is not an integer
+SO-0213|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0213|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0215|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0215|Equipment|RecordingInterval|row.ID=1047, row.SerialNo=FB475. RecordingInterval is not an integer
+SO-0215|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0218|Equipment|RecordingInterval|row.ID=800, row.SerialNo=B4849. RecordingInterval is not an integer
+SO-0219|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0219|Equipment|RecordingInterval|row.ID=1048, row.SerialNo=FB483. RecordingInterval is not an integer
+SO-0219|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0221|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0221|Equipment|RecordingInterval|row.ID=1049, row.SerialNo=FB482. RecordingInterval is not an integer
+SO-0221|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0223|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0223|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0223|Equipment|RecordingInterval|row.ID=1050, row.SerialNo=FB518. RecordingInterval is not an integer
+SO-0224|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0224|Equipment|RecordingInterval|row.ID=1051, row.SerialNo=FB585. RecordingInterval is not an integer
+SO-0226|Equipment|RecordingInterval|row.ID=691, row.SerialNo=R1709. RecordingInterval is not an integer
+SO-0226|Equipment|RecordingInterval|row.ID=1052, row.SerialNo=FB515. RecordingInterval is not an integer
+SO-0226|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0226|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0234|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0234|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0234|Equipment|RecordingInterval|row.ID=1053, row.SerialNo=FB485. RecordingInterval is not an integer
+SO-0236|Equipment|RecordingInterval|row.ID=1054, row.SerialNo=FB484. RecordingInterval is not an integer
+SO-0236|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0236|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0238|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0238|Equipment|RecordingInterval|row.ID=1055, row.SerialNo=FB405. RecordingInterval is not an integer
+SO-0238|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0245|Equipment|RecordingInterval|row.ID=754, row.SerialNo=R1703. RecordingInterval is not an integer
+SO-0245|Equipment|RecordingInterval|row.ID=1056, row.SerialNo=FB490. RecordingInterval is not an integer
+SO-0245|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0245|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0245|Equipment|DateInstalled|row.ID=698, row.SerialNo=9736329. Installation Date cannot be None
+SO-0246|Equipment|RecordingInterval|row.ID=755, row.SerialNo=AJ989. RecordingInterval is not an integer
+SO-0246|Equipment|DateInstalled|row.ID=699, row.SerialNo=9736322. Installation Date cannot be None
+SO-0247|Equipment|RecordingInterval|row.ID=1057, row.SerialNo=FB487. RecordingInterval is not an integer
+SO-0247|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0247|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0249|Equipment|RecordingInterval|row.ID=1058, row.SerialNo=FB491. RecordingInterval is not an integer
+SO-0249|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0249|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0250|Equipment|RecordingInterval|row.ID=689, row.SerialNo=AF181. RecordingInterval is not an integer
+SO-0250|Equipment|RecordingInterval|row.ID=756, row.SerialNo=9736314. RecordingInterval is not an integer
+SO-0250|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0250|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0250|Equipment|RecordingInterval|row.ID=1059, row.SerialNo=FB513. RecordingInterval is not an integer
+SO-0252|Equipment|DateInstalled|row.ID=700, row.SerialNo=9736301. Installation Date cannot be None
+SO-0253|Equipment|RecordingInterval|row.ID=690, row.SerialNo=R1822. RecordingInterval is not an integer
+SO-0254|Equipment|RecordingInterval|row.ID=925, row.SerialNo=DG-189. RecordingInterval is not an integer
+SO-0261|Equipment|RecordingInterval|row.ID=1060, row.SerialNo=FB512. RecordingInterval is not an integer
+SO-0261|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0271|Equipment|DateInstalled|row.ID=276, row.SerialNo=9763366. Installation Date cannot be None
+SO-0274|Equipment|DateInstalled|row.ID=277, row.SerialNo=9763369. Installation Date cannot be None
+TB-0002|Equipment|RecordingInterval|row.ID=464, row.SerialNo=74688. RecordingInterval is not an integer
+TB-0044|Equipment|RecordingInterval|row.ID=465, row.SerialNo=D2267. RecordingInterval is not an integer
+TB-0055|Equipment|RecordingInterval|row.ID=466, row.SerialNo=D2271. RecordingInterval is not an integer
+TB-0059|Equipment|RecordingInterval|row.ID=457, row.SerialNo=78529. RecordingInterval is not an integer
+TB-0071|Equipment|RecordingInterval|row.ID=461, row.SerialNo=D2262. RecordingInterval is not an integer
+TB-0071|Equipment|RecordingInterval|row.ID=462, row.SerialNo=G5435. RecordingInterval is not an integer
+TB-0203|Equipment|RecordingInterval|row.ID=458, row.SerialNo=F4088. RecordingInterval is not an integer
+TV-167|Equipment|RecordingInterval|row.ID=13, row.SerialNo=K2150. RecordingInterval is not an integer
+TV-192|Equipment|RecordingInterval|row.ID=16, row.SerialNo=G1234. RecordingInterval is not an integer
+TV-192|Equipment|RecordingInterval|row.ID=15, row.SerialNo=F4088. RecordingInterval is not an integer
+TV-210|Equipment|RecordingInterval|row.ID=18, row.SerialNo=D2267. RecordingInterval is not an integer
+TV-211|Equipment|RecordingInterval|row.ID=19, row.SerialNo=G5435. RecordingInterval is not an integer
+TV-216|Equipment|RecordingInterval|row.ID=21, row.SerialNo=K2619. RecordingInterval is not an integer
+TV-216|Equipment|RecordingInterval|row.ID=20, row.SerialNo=H3690. RecordingInterval is not an integer
+TV-216|Equipment|RecordingInterval|row.ID=22, row.SerialNo=F4204. RecordingInterval is not an integer
+TV-216|Equipment|RecordingInterval|row.ID=23, row.SerialNo=G1186. RecordingInterval is not an integer
+TV-216|Equipment|RecordingInterval|row.ID=24, row.SerialNo=J3409. RecordingInterval is not an integer
+TV-216|Equipment|RecordingInterval|row.ID=25, row.SerialNo=G1208. RecordingInterval is not an integer
+TV-217|Equipment|RecordingInterval|row.ID=26, row.SerialNo=K2177. RecordingInterval is not an integer
+TV-218|Equipment|RecordingInterval|row.ID=28, row.SerialNo=77862. RecordingInterval is not an integer
+WL-0002|Equipment|RecordingInterval|row.ID=761, row.SerialNo=1JPXV8VR. RecordingInterval is not an integer
+WL-0003|Equipment|RecordingInterval|row.ID=317, row.SerialNo=1JPXV9L7. RecordingInterval is not an integer
+WL-0036|Equipment|RecordingInterval|row.ID=399, row.SerialNo=1JND3ZM3. RecordingInterval is not an integer
+WL-0080|Equipment|RecordingInterval|row.ID=938, row.SerialNo=1JWE3CKU. RecordingInterval is not an integer
+WS-007|Equipment|RecordingInterval|row.ID=155, row.SerialNo=1250505. RecordingInterval is not an integer
+WS-007|Equipment|RecordingInterval|row.ID=199, row.SerialNo=10313142. RecordingInterval is not an integer
+WS-008|Equipment|RecordingInterval|row.ID=156, row.SerialNo=2376408. RecordingInterval is not an integer
+WS-009|Equipment|RecordingInterval|row.ID=157, row.SerialNo=2443812. RecordingInterval is not an integer
+WS-010|Equipment|RecordingInterval|row.ID=200, row.SerialNo=10299447. RecordingInterval is not an integer
+WS-010|Equipment|RecordingInterval|row.ID=158, row.SerialNo=1260248. RecordingInterval is not an integer
+WS-012|Equipment|RecordingInterval|row.ID=160, row.SerialNo=2443808. RecordingInterval is not an integer
+WS-018|Equipment|RecordingInterval|row.ID=163, row.SerialNo=9896166. RecordingInterval is not an integer
+
+Contact|3526|2768|793|71.35115606936417
+PointID|Table|Field|Error
+AR-0209|OwnersData||"Key (organization)=(City of Aztec) is not present in table ""lexicon_term""."
+CP-0037|OwnersData||"Key (organization)=(Daybreak Investments) is not present in table ""lexicon_term""."
+EB-064|OwnersData||Value error, Either name or organization must be provided.
+EB-110|OwnersData||"Key (organization)=(Vallecitos HOA) is not present in table ""lexicon_term""."
+EB-119|OwnersData||"Key (organization)=(Naiche Corporation) is not present in table ""lexicon_term""."
+EB-138|OwnersData||"Key (organization)=(Santa Fe County; Santa Fe Animal Shelter) is not present in table ""lexicon_term""."
+EB-340|OwnersData||"Key (organization)=(El Guicu Ditch Association) is not present in table ""lexicon_term""."
+EB-373|OwnersData||"Key (organization)=(Santa Fe Municipal Airport) is not present in table ""lexicon_term""."
+EB-373|OwnersData||"Key (organization)=(Santa Fe Municipal Airport) is not present in table ""lexicon_term""."
+EB-462|OwnersData||"Key (organization)=(Uluru Development) is not present in table ""lexicon_term""."
+EB-506|OwnersData||"Key (organization)=(AllSup's Convenience Stores) is not present in table ""lexicon_term""."
+EB-573|OwnersData||"Key (organization)=(Santa Fe Downs Resort) is not present in table ""lexicon_term""."
+HS-002|OwnersData||"Key (organization)=(City of Truth or Consequences, WWTP) is not present in table ""lexicon_term""."
+HS-002|OwnersData||"Key (organization)=(City of Truth or Consequences, WWTP) is not present in table ""lexicon_term""."
+HS-038|OwnersData||"Key (organization)=(Riverbend Hotsprings) is not present in table ""lexicon_term""."
+HS-038|OwnersData||"Key (organization)=(Riverbend Hotsprings) is not present in table ""lexicon_term""."
+JM-015|OwnersData||"Key (organization)=(Armendaris Ranch) is not present in table ""lexicon_term""."
+NM-00037|OwnersData||"Key (organization)=(El Paso Water) is not present in table ""lexicon_term""."
+NM-00037|OwnersData||"Key (organization)=(El Paso Water) is not present in table ""lexicon_term""."
+NM-00367|OwnersData||"Key (organization)=(Pecos Valley Artesian Conservancy District) is not present in table ""lexicon_term""."
+NM-00841|OwnersData||"Key (organization)=(BLM, Socorro Field Office) is not present in table ""lexicon_term""."
+NM-00904|OwnersData||"Key (organization)=(US Fish & Wildlife Service) is not present in table ""lexicon_term""."
+NM-00904|OwnersData||"Key (organization)=(US Fish & Wildlife Service) is not present in table ""lexicon_term""."
+NM-26614|OwnersData||"Key (organization)=(National Park Service) is not present in table ""lexicon_term""."
+PB-0012|OwnersData||"Key (organization)=(Sile Municipal Domestic Water Assn.) is not present in table ""lexicon_term""."
+PB-0020|OwnersData||"Key (organization)=(Pena Blanca Water & Sanitation District) is not present in table ""lexicon_term""."
+PB-0020|OwnersData||"Key (organization)=(Pena Blanca Water & Sanitation District) is not present in table ""lexicon_term""."
+QU-004|OwnersData||"Key (organization)=(Town of Questa) is not present in table ""lexicon_term""."
+QU-004|OwnersData||"Key (organization)=(Town of Questa) is not present in table ""lexicon_term""."
+QU-036|OwnersData||"Key (organization)=(Lama MDWCA) is not present in table ""lexicon_term""."
+QU-036|OwnersData||"Key (organization)=(Lama MDWCA) is not present in table ""lexicon_term""."
+QU-164|OwnersData||"Key (organization)=(Town of Cerro) is not present in table ""lexicon_term""."
+QU-164|OwnersData||"Key (organization)=(Town of Cerro) is not present in table ""lexicon_term""."
+SA-0062|OwnersData||"Key (organization)=(Farr Cattle Company (Farr Ranch)) is not present in table ""lexicon_term""."
+TB-0097|OwnersData||"Key (organization)=(Carrizozo Orchard) is not present in table ""lexicon_term""."
+UC-0031|OwnersData||"Key (organization)=(USFS, Kiowa Grasslands) is not present in table ""lexicon_term""."
+WL-0002|OwnersData||"Key (organization)=(Cloud Country West Subdivision) is not present in table ""lexicon_term""."
+WL-0003|OwnersData||"Key (organization)=(Chama West Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0005|OwnersData||"Key (organization)=(West Rim MDWUA) is not present in table ""lexicon_term""."
+WL-0016|OwnersData||"Key (organization)=(Village of Willard) is not present in table ""lexicon_term""."
+WL-0016|OwnersData||"Key (organization)=(Village of Willard) is not present in table ""lexicon_term""."
+WL-0017|OwnersData||"Key (organization)=(Quemado Mutual Water and Sewage Works Association) is not present in table ""lexicon_term""."
+WL-0017|OwnersData||"Key (organization)=(Quemado Mutual Water and Sewage Works Association) is not present in table ""lexicon_term""."
+WL-0019|OwnersData||"Key (organization)=(Coyote Creek MDWUA) is not present in table ""lexicon_term""."
+WL-0019|OwnersData||"Key (organization)=(Coyote Creek MDWUA) is not present in table ""lexicon_term""."
+WL-0021|OwnersData||"Key (organization)=(Lamy Mutual Domestic Water Assn.) is not present in table ""lexicon_term""."
+WL-0021|OwnersData||"Key (organization)=(Lamy Mutual Domestic Water Assn.) is not present in table ""lexicon_term""."
+WL-0022|OwnersData||"Key (organization)=(La Joya CWDA) is not present in table ""lexicon_term""."
+WL-0022|OwnersData||"Key (organization)=(La Joya CWDA) is not present in table ""lexicon_term""."
+WL-0024|OwnersData||"Key (organization)=(NM Firefighters Training Academy) is not present in table ""lexicon_term""."
+WL-0024|OwnersData||"Key (organization)=(NM Firefighters Training Academy) is not present in table ""lexicon_term""."
+WL-0025|OwnersData||"Key (organization)=(Cebolleta Land Grant) is not present in table ""lexicon_term""."
+WL-0025|OwnersData||"Key (organization)=(Cebolleta Land Grant) is not present in table ""lexicon_term""."
+WL-0030|OwnersData||"Key (organization)=(Madrid Water Co-op) is not present in table ""lexicon_term""."
+WL-0040|OwnersData||"Key (organization)=(Sun Valley Water and Sanitation) is not present in table ""lexicon_term""."
+WL-0057|OwnersData||"Key (organization)=(Bluewater Lake MDWCA) is not present in table ""lexicon_term""."
+WL-0057|OwnersData||"Key (organization)=(Bluewater Lake MDWCA) is not present in table ""lexicon_term""."
+WL-0058|OwnersData||"Key (organization)=(Bluewater Acres Domestic Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0058|OwnersData||"Key (organization)=(Bluewater Acres Domestic Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0059|OwnersData||"Key (organization)=(Lybrook Municipal) is not present in table ""lexicon_term""."
+WL-0063|OwnersData||"Key (organization)=(New Mexico Museum of Natural History) is not present in table ""lexicon_term""."
+WL-0063|OwnersData||"Key (organization)=(New Mexico Museum of Natural History) is not present in table ""lexicon_term""."
+WL-0064|OwnersData||"Key (organization)=(Hillsboro Mutual Domestic Water Consumer Assn.) is not present in table ""lexicon_term""."
+WL-0064|OwnersData||"Key (organization)=(Hillsboro Mutual Domestic Water Consumer Assn.) is not present in table ""lexicon_term""."
+WL-0066|OwnersData||"Key (organization)=(Tyrone Mutual Domestic Water Assn.) is not present in table ""lexicon_term""."
+WL-0067|OwnersData||"Key (organization)=(Santa Clara Water System) is not present in table ""lexicon_term""."
+WL-0067|OwnersData||"Key (organization)=(Santa Clara Water System) is not present in table ""lexicon_term""."
+WL-0071|OwnersData||"Key (organization)=(Lake Roberts Water Assn.) is not present in table ""lexicon_term""."
+WL-0071|OwnersData||"Key (organization)=(Lake Roberts Water Assn.) is not present in table ""lexicon_term""."
+WL-0072|OwnersData||"Key (organization)=(El Creston MDWCA) is not present in table ""lexicon_term""."
+WL-0072|OwnersData||"Key (organization)=(El Creston MDWCA) is not present in table ""lexicon_term""."
+WL-0081|OwnersData||"Key (organization)=(New Mexico Tech - Playas) is not present in table ""lexicon_term""."
+WL-0081|OwnersData||"Key (organization)=(New Mexico Tech - Playas) is not present in table ""lexicon_term""."
+WL-0085|OwnersData||"Key (organization)=(Reserve Municipality Water Works) is not present in table ""lexicon_term""."
+WL-0086|OwnersData||"Key (organization)=(Bayard Municipal Water) is not present in table ""lexicon_term""."
+WL-0092|OwnersData||"Key (organization)=(Town of Estancia) is not present in table ""lexicon_term""."
+WL-0092|OwnersData||"Key (organization)=(Town of Estancia) is not present in table ""lexicon_term""."
+WL-0109|OwnersData||"Key (organization)=(Pie Town MDWCA) is not present in table ""lexicon_term""."
+WL-0109|OwnersData||"Key (organization)=(Pie Town MDWCA) is not present in table ""lexicon_term""."
+WL-0114|OwnersData||"Key (organization)=(Roosevelt Soil & Water Conservation District) is not present in table ""lexicon_term""."
+WL-0116|OwnersData||"Key (organization)=(Otis Mutual Domestic) is not present in table ""lexicon_term""."
+WL-0124|OwnersData||"Key (organization)=(White Cliffs MDWUA) is not present in table ""lexicon_term""."
+WL-0124|OwnersData||"Key (organization)=(White Cliffs MDWUA) is not present in table ""lexicon_term""."
+WL-0138|OwnersData||"Key (organization)=(Tesuque Village Water Association) is not present in table ""lexicon_term""."
+WL-0138|OwnersData||"Key (organization)=(Tesuque Village Water Association) is not present in table ""lexicon_term""."
+WL-0140|OwnersData||"Key (organization)=(Vista Linda Water Co-op) is not present in table ""lexicon_term""."
+WL-0144|OwnersData||"Key (organization)=(Anasazi Trails Water Cooperative) is not present in table ""lexicon_term""."
+WL-0144|OwnersData||"Key (organization)=(Anasazi Trails Water Cooperative) is not present in table ""lexicon_term""."
+WL-0151|OwnersData||"Key (organization)=(Canon Mutual Domestic Water Consumer Assn.) is not present in table ""lexicon_term""."
+WL-0152|OwnersData||"Key (organization)=(Sierra Los Pinos Property Owners Assn.) is not present in table ""lexicon_term""."
+WL-0152|OwnersData||"Key (organization)=(Sierra Los Pinos Property Owners Assn.) is not present in table ""lexicon_term""."
+WL-0155|OwnersData||"Key (organization)=(Placitas Trails Water Coop) is not present in table ""lexicon_term""."
+WL-0155|OwnersData||"Key (organization)=(Placitas Trails Water Coop) is not present in table ""lexicon_term""."
+WL-0163|OwnersData||"Key (organization)=(BLM, Roswell Office) is not present in table ""lexicon_term""."
+WL-0183|OwnersData||"Key (organization)=(Forked Lightning Ranch) is not present in table ""lexicon_term""."
+WL-0183|OwnersData||"Key (organization)=(Forked Lightning Ranch) is not present in table ""lexicon_term""."
+WL-0186|OwnersData||"Key (organization)=(Pecos National Historical Park, NPS) is not present in table ""lexicon_term""."
+WL-0186|OwnersData||"Key (organization)=(Pecos National Historical Park, NPS) is not present in table ""lexicon_term""."
+WL-0199|OwnersData||"Key (organization)=(Cottonwood Rural Water Assn.) is not present in table ""lexicon_term""."
+WL-0199|OwnersData||"Key (organization)=(Cottonwood Rural Water Assn.) is not present in table ""lexicon_term""."
+WL-0213|OwnersData||"Key (organization)=(Pinon Ridge Water Users Association) is not present in table ""lexicon_term""."
+WL-0221|OwnersData||"Key (organization)=(McSherry Farms) is not present in table ""lexicon_term""."
+WL-0229|OwnersData||"Key (organization)=(Agua Sana Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0229|OwnersData||"Key (organization)=(Agua Sana Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0231|OwnersData||"Key (organization)=(Chamita Water Users Association) is not present in table ""lexicon_term""."
+WL-0236|OwnersData||"Key (organization)=(W Spear-bar Ranch) is not present in table ""lexicon_term""."
+WL-0236|OwnersData||"Key (organization)=(W Spear-bar Ranch) is not present in table ""lexicon_term""."
+WL-0242|OwnersData||"Key (organization)=(Village of Capitan) is not present in table ""lexicon_term""."
+WL-0246|OwnersData||"Key (organization)=(Brazos Mutual Domestic Water Consumers Assn.) is not present in table ""lexicon_term""."
+WL-0246|OwnersData||"Key (organization)=(Brazos Mutual Domestic Water Consumers Assn.) is not present in table ""lexicon_term""."
+WL-0257|OwnersData||"Key (organization)=(National Park Service) is not present in table ""lexicon_term""."
+WL-0261|OwnersData||"Key (organization)=(Alto Alps Homeowners Association) is not present in table ""lexicon_term""."
+WL-0261|OwnersData||"Key (organization)=(Alto Alps Homeowners Association) is not present in table ""lexicon_term""."
+WL-0278|OwnersData||"Key (organization)=(Chiricahua Desert Museum) is not present in table ""lexicon_term""."
+WL-0278|OwnersData||"Key (organization)=(Chiricahua Desert Museum) is not present in table ""lexicon_term""."
+WL-0280|OwnersData||"Key (organization)=(Bike Ranch) is not present in table ""lexicon_term""."
+WL-0281|OwnersData||"Key (organization)=(Hachita MDWCA) is not present in table ""lexicon_term""."
+WL-0281|OwnersData||"Key (organization)=(Hachita MDWCA) is not present in table ""lexicon_term""."
+WL-0323|OwnersData||"Key (organization)=(Carrizozo Municipal Water) is not present in table ""lexicon_term""."
+WL-0323|OwnersData||"Key (organization)=(Carrizozo Municipal Water) is not present in table ""lexicon_term""."
+WL-0327|OwnersData||"Key (organization)=(Dunhill Ranch) is not present in table ""lexicon_term""."
+WL-0327|OwnersData||"Key (organization)=(Dunhill Ranch) is not present in table ""lexicon_term""."
+WL-0331|OwnersData||"Key (organization)=(Santa Fe Conservation Trust) is not present in table ""lexicon_term""."
+
+Manual Water Levels|406136|7200|7199|0.013888888888888888
+PointID|Table|Field|Error
