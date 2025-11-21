@@ -2,6 +2,6 @@
 .idea/NMAquiferMigrationStats.iml
 .idea/misc.xml
 service_account.json
+transfermetrics_service_account.json
 .xml
-.idea
 .iml
