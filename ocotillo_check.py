@@ -3,7 +3,7 @@
 
 """
 Check Ocotillo_TableField entries in the FieldPairs_Checked sheet
-against ocotillo_current.csv (Postgres export), and write an
+against ocotillo_current_test.csv (Postgres export), and write an
 ExistsInOcotillo column ("yes"/"no").
 
 - DOES NOT write or modify the first two columns.
@@ -62,7 +62,7 @@ def col_index_to_letter(idx: int) -> str:
 
 
 def main():
-    # 1) Load ocotillo_current.csv and build a set of <table>.<field> keys
+    # 1) Load ocotillo_current_test.csv and build a set of <table>.<field> keys
     csv_path = Path(OCOTILLO_CSV_PATH)
     if not csv_path.exists():
         sys.exit(f"{OCOTILLO_CSV_PATH} not found. Export it from Postgres first.")
@@ -157,7 +157,7 @@ def main():
 
     service.spreadsheets().values().update(
         spreadsheetId=SPREADSHEET_ID,
-        range=f"'{FIELDPAIRS_SHEET_NAME}'!N1:P5",
+        range=f"'{FIELDPAIRS_SHEET_NAME}'!O1:Q5",
         valueInputOption="RAW",
         body={"values": summary_values}
     ).execute()
