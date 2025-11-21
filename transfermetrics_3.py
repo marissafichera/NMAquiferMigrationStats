@@ -30,9 +30,9 @@ from googleapiclient.discovery import build
 
 # ====== CONFIG: EDIT THESE ======
 SERVICE_ACCOUNT_FILE = "service_account.json"
-SHEET_NAME = "FieldPairs_Checked"
+SHEET_NAME = "transfer_metrics"
 SPREADSHEET_ID = "1NtkaSWh8COQpMXd9AZ-fXMsRok9l-wwC1sz0lgVCTeo"
-TRANSFER_METRICS_PATH = r"transfer_metrics_metrics_2025-11-13T13_07_31.csv"
+TRANSFER_METRICS_PATH = r"transfer_metrics_20251118.csv"
 # ===============================
 
 SUMMARY_KEYS = ["model", "input_count", "cleaned_count", "transferred", "issue_percentage"]
@@ -178,20 +178,27 @@ def write_block_summary(service, spreadsheet_id: str, sheet_name: str, rows: lis
     headers = ["model", "Table", "input_count", "cleaned_count", "transferred", "issue_percentage"]
     values = [headers] + [[r.get(h, "") for h in headers] for r in rows]
     end_row = len(values)  # header + data
-    a1 = f"'{sheet_name}'!G2:L{end_row}"
+    a1 = f"'{sheet_name}'!A2:F{end_row}"
 
     # Clear target area so old rows don't linger
     service.spreadsheets().values().clear(
         spreadsheetId=spreadsheet_id,
-        range=f"'{sheet_name}'!G:L"
+        range=f"'{sheet_name}'!A:F"
     ).execute()
 
     service.spreadsheets().values().update(
-        spreadsheetId=spreadsheet_id,
-        range=a1,
+        spreadsheetId=SPREADSHEET_ID,
+        range=f"'{SHEET_NAME}'!A2",  # <-- just the top-left cell
         valueInputOption="RAW",
-        body={"values": values}
+        body={"values": values}  # 6 columns wide
     ).execute()
+
+    # service.spreadsheets().values().update(
+    #     spreadsheetId=spreadsheet_id,
+    #     range=a1,
+    #     valueInputOption="RAW",
+    #     body={"values": values}
+    # ).execute()
 
 def main():
     rows = parse_transfer_metrics_blocks(Path(TRANSFER_METRICS_PATH))
