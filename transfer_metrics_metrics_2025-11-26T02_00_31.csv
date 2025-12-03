@@ -1,0 +1,386 @@
+model|input_count|cleaned_count|transferred|issue_percentage
+Well|38541|8180|8157|0.28117359413202936
+PointID|Table|Field|Error
+NM-23353|WellData||Value error, well casing depth must be less than or equal to hole depth
+DA-0047|WellData|PointID|duplicate records
+AS-066|WellData||Value error, well casing depth must be less than or equal to hole depth
+EB-594|WellData||Value error, well depth must be less than than or equal to hole depth
+DA-0047|WellData|PointID|duplicate records
+EB-614|WellData||Value error, well casing depth must be less than or equal to hole depth
+SV-0125|WellData||Value error, well casing depth must be less than or equal to hole depth
+AR-0177|WellData||Value error, well casing depth must be less than or equal to hole depth
+QY-0726|WellData||Value error, well casing depth must be less than or equal to hole depth
+NM-26883|WellData||Value error, well casing depth must be less than or equal to hole depth
+EB-509|WellData||Value error, well depth must be less than than or equal to hole depth
+AR-0120|WellData||Value error, well casing depth must be less than or equal to hole depth
+SV-0012|WellData||Value error, well depth must be less than than or equal to hole depth
+QY-0727|WellData||Value error, well casing depth must be less than or equal to hole depth
+EB-363|WellData||Value error, well casing depth must be less than or equal to hole depth
+PP-037|WellData||Value error, well casing depth must be less than or equal to hole depth
+QY-0288|WellData||Value error, well casing depth must be less than or equal to hole depth
+SA-0019|WellData||Value error, well casing depth must be less than or equal to hole depth
+NM-23288|WellData||Value error, well casing depth must be less than or equal to hole depth
+SM-0049|WellData||Value error, well casing depth must be less than or equal to hole depth
+QY-0902|WellData||Value error, well casing depth must be less than or equal to hole depth
+EB-316|WellData||Value error, well casing depth must be less than or equal to hole depth
+SA-0319|WellData||Value error, well casing depth must be less than or equal to hole depth
+
+WellScreen|3714|2426|2412|0.5770816158285244
+PointID|Table|Field|Error
+EB-029|WellScreens||screen_depth_bottom: Input should be a valid number
+WL-0096|WellScreens||Value error, screen_depth_bottom must be greater than screen_depth_top
+WL-0358|WellScreens||screen_depth_bottom: Input should be a valid number
+WL-0358|WellScreens||screen_depth_top: Input should be a valid number
+NM-27235|WellScreens||Value error, screen_depth_bottom must be greater than screen_depth_top
+QY-0622|WellScreens||screen_depth_top: Input should be greater than 0
+EB-394|WellScreens||screen_depth_bottom: Input should be a valid number
+EB-394|WellScreens||screen_depth_bottom: Input should be a valid number
+SA-0318|WellScreens||screen_depth_top: Input should be greater than 0
+NM-00253|WellScreens||screen_depth_top: Input should be greater than 0
+EB-096|WellScreens||Value error, screen_depth_bottom must be greater than screen_depth_top
+SV-0111|WellScreens||Value error, screen_depth_bottom must be greater than screen_depth_top
+TB-0107|WellScreens||screen_depth_top: Input should be greater than 0
+WL-0359|WellScreens||screen_depth_bottom: Input should be a valid number
+WL-0359|WellScreens||screen_depth_top: Input should be a valid number
+QY-0494|WellScreens||screen_depth_top: Input should be greater than 0
+
+Sensor|981|750|394|47.46666666666667
+PointID|Table|Field|Error
+EB-220|Equipment|RecordingInterval|name=43, row.SerialNo=78575. error=No measurements found for PointID: EB-220
+HS-038|Equipment|RecordingInterval|name=222, row.SerialNo=A8779. error=No measurements found for PointID: HS-038
+SA-0163|Equipment|RecordingInterval|name=5, row.SerialNo=F3471. error=No measurements found for PointID: SA-0163
+SA-0163|Equipment|RecordingInterval|name=44, row.SerialNo=D9762. error=No measurements found for PointID: SA-0163
+SA-0174|Equipment|RecordingInterval|name=10, row.SerialNo=G1241. error=No measurements found for PointID: SA-0174
+SM-0055|Equipment|RecordingInterval|name=136, row.SerialNo=DXT-1715. error=No measurements found for PointID: SM-0055
+SM-0257|Equipment|DateInstalled|row.ID=17, row.SerialNo=B5546. Installation Date cannot be None
+SM-0259|Equipment|RecordingInterval|name=17, row.SerialNo=B5546. error=No measurements found for PointID: SM-0259
+SO-0125|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0125|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0131|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0131|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0140|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0140|Equipment|RecordingInterval|name=1026, row.SerialNo=FB466. error=No measurements found for PointID: SO-0140
+SO-0140|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0142|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0142|Equipment|RecordingInterval|name=714, row.SerialNo=AK438. error=No measurements found for PointID: SO-0142
+SO-0142|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0144|Equipment|RecordingInterval|name=469, row.SerialNo=BA545. error=No measurements found for PointID: SO-0144
+SO-0144|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0144|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0145|Equipment|RecordingInterval|name=1029, row.SerialNo=BB047. error=No measurements found for PointID: SO-0145
+SO-0145|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0146|Equipment|RecordingInterval|name=1030, row.SerialNo=FB467. error=No measurements found for PointID: SO-0146
+SO-0146|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0146|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0148|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0148|Equipment|RecordingInterval|name=1031, row.SerialNo=FB469. error=No measurements found for PointID: SO-0148
+SO-0148|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0160|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0160|Equipment|RecordingInterval|name=1032, row.SerialNo=FB470. error=No measurements found for PointID: SO-0160
+SO-0160|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0163|Equipment|RecordingInterval|name=1033, row.SerialNo=FB472. error=No measurements found for PointID: SO-0163
+SO-0163|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0163|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0165|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0165|Equipment|RecordingInterval|name=1034, row.SerialNo=FB474. error=No measurements found for PointID: SO-0165
+SO-0165|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0166|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0166|Equipment|RecordingInterval|name=1035, row.SerialNo=FB473. error=No measurements found for PointID: SO-0166
+SO-0167|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0167|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0168|Equipment|DateInstalled|row.ID=524, row.SerialNo=9736317. Installation Date cannot be None
+SO-0169|Equipment|DateInstalled|row.ID=279, row.SerialNo=9736315. Installation Date cannot be None
+SO-0170|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0170|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0175|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0175|Equipment|RecordingInterval|name=1038, row.SerialNo=AK511. error=No measurements found for PointID: SO-0175
+SO-0175|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0177|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0177|Equipment|RecordingInterval|name=1039, row.SerialNo=BK307. error=No measurements found for PointID: SO-0177
+SO-0177|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0189|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0189|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0189|Equipment|RecordingInterval|name=1040, row.SerialNo=AF158. error=No measurements found for PointID: SO-0189
+SO-0190|Equipment|RecordingInterval|name=851, row.SerialNo=AK454. error=No measurements found for PointID: SO-0190
+SO-0190|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0191|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0191|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0191|Equipment|RecordingInterval|name=1042, row.SerialNo=FB439. error=No measurements found for PointID: SO-0191
+SO-0194|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0194|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0194|Equipment|RecordingInterval|name=1043, row.SerialNo=FB442. error=No measurements found for PointID: SO-0194
+SO-0200|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0200|Equipment|RecordingInterval|name=1044, row.SerialNo=FB433. error=No measurements found for PointID: SO-0200
+SO-0200|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0204|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0204|Equipment|RecordingInterval|name=1045, row.SerialNo=FB436. error=No measurements found for PointID: SO-0204
+SO-0204|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0213|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0213|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0215|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0215|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0219|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0219|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0221|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0221|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0223|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0223|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0224|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0224|Equipment|RecordingInterval|name=1051, row.SerialNo=FB585. error=No measurements found for PointID: SO-0224
+SO-0226|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0226|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0234|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0234|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0236|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0236|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0238|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0238|Equipment|RecordingInterval|name=1055, row.SerialNo=FB405. error=No measurements found for PointID: SO-0238
+SO-0238|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0245|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0245|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0245|Equipment|DateInstalled|row.ID=698, row.SerialNo=9736329. Installation Date cannot be None
+SO-0246|Equipment|DateInstalled|row.ID=699, row.SerialNo=9736322. Installation Date cannot be None
+SO-0247|Equipment|RecordingInterval|name=1057, row.SerialNo=FB487. error=No measurements found for PointID: SO-0247
+SO-0247|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0247|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0249|Equipment|RecordingInterval|name=1058, row.SerialNo=FB491. error=No measurements found for PointID: SO-0249
+SO-0249|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0249|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0250|Equipment|EquipmentType|key error adding sensor_type:DiverLink error: 'DiverLink'
+SO-0250|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0252|Equipment|DateInstalled|row.ID=700, row.SerialNo=9736301. Installation Date cannot be None
+SO-0261|Equipment|RecordingInterval|name=1060, row.SerialNo=FB512. error=No measurements found for PointID: SO-0261
+SO-0261|Equipment|EquipmentType|key error adding sensor_type:Diver Cable error: 'Diver Cable'
+SO-0271|Equipment|DateInstalled|row.ID=276, row.SerialNo=9763366. Installation Date cannot be None
+SO-0274|Equipment|DateInstalled|row.ID=277, row.SerialNo=9763369. Installation Date cannot be None
+TV-192|Equipment|RecordingInterval|name=16, row.SerialNo=G1234. error=No measurements found for PointID: TV-192
+TV-210|Equipment|RecordingInterval|name=465, row.SerialNo=D2267. error=No measurements found for PointID: TV-210
+TV-216|Equipment|RecordingInterval|name=353, row.SerialNo=K2619. error=No measurements found for PointID: TV-216
+TV-216|Equipment|RecordingInterval|name=9, row.SerialNo=H3690. error=No measurements found for PointID: TV-216
+TV-216|Equipment|RecordingInterval|name=528, row.SerialNo=F4204. error=No measurements found for PointID: TV-216
+TV-216|Equipment|RecordingInterval|name=284, row.SerialNo=G1186. error=No measurements found for PointID: TV-216
+TV-216|Equipment|RecordingInterval|name=42, row.SerialNo=J3409. error=No measurements found for PointID: TV-216
+TV-216|Equipment|RecordingInterval|name=25, row.SerialNo=G1208. error=No measurements found for PointID: TV-216
+TV-217|Equipment|RecordingInterval|name=241, row.SerialNo=K2177. error=No measurements found for PointID: TV-217
+TV-218|Equipment|RecordingInterval|name=28, row.SerialNo=77862. error=No measurements found for PointID: TV-218
+WL-0003|Equipment|RecordingInterval|name=317, row.SerialNo=1JPXV9L7. error=No measurements found for PointID: WL-0003
+WS-010|Equipment|RecordingInterval|name=200, row.SerialNo=10299447. error=No measurements found for PointID: WS-010
+
+Contact|3526|3220|969|69.90683229813665
+PointID|Table|Field|Error
+AR-0209|OwnersData||"Key (organization)=(City of Aztec) is not present in table ""lexicon_term""."
+CP-0037|OwnersData||"Key (organization)=(Daybreak Investments) is not present in table ""lexicon_term""."
+EB-064|OwnersData||Value error, Either name or organization must be provided.
+EB-110|OwnersData||"Key (organization)=(Vallecitos HOA) is not present in table ""lexicon_term""."
+EB-119|OwnersData||"Key (organization)=(Naiche Corporation) is not present in table ""lexicon_term""."
+EB-138|OwnersData||"Key (organization)=(Santa Fe County; Santa Fe Animal Shelter) is not present in table ""lexicon_term""."
+EB-340|OwnersData||"Key (organization)=(El Guicu Ditch Association) is not present in table ""lexicon_term""."
+EB-373|OwnersData||"Key (organization)=(Santa Fe Municipal Airport) is not present in table ""lexicon_term""."
+EB-373|OwnersData||"Key (organization)=(Santa Fe Municipal Airport) is not present in table ""lexicon_term""."
+EB-462|OwnersData||"Key (organization)=(Uluru Development) is not present in table ""lexicon_term""."
+EB-506|OwnersData||"Key (organization)=(AllSup's Convenience Stores) is not present in table ""lexicon_term""."
+EB-573|OwnersData||"Key (organization)=(Santa Fe Downs Resort) is not present in table ""lexicon_term""."
+HS-002|OwnersData||"Key (organization)=(City of Truth or Consequences, WWTP) is not present in table ""lexicon_term""."
+HS-002|OwnersData||"Key (organization)=(City of Truth or Consequences, WWTP) is not present in table ""lexicon_term""."
+HS-038|OwnersData||"Key (organization)=(Riverbend Hotsprings) is not present in table ""lexicon_term""."
+HS-038|OwnersData||"Key (organization)=(Riverbend Hotsprings) is not present in table ""lexicon_term""."
+JM-015|OwnersData||"Key (organization)=(Armendaris Ranch) is not present in table ""lexicon_term""."
+NM-00037|OwnersData||"Key (organization)=(El Paso Water) is not present in table ""lexicon_term""."
+NM-00037|OwnersData||"Key (organization)=(El Paso Water) is not present in table ""lexicon_term""."
+NM-00367|OwnersData||"Key (organization)=(Pecos Valley Artesian Conservancy District) is not present in table ""lexicon_term""."
+NM-00841|OwnersData||"Key (organization)=(BLM, Socorro Field Office) is not present in table ""lexicon_term""."
+NM-00904|OwnersData||"Key (organization)=(US Fish & Wildlife Service) is not present in table ""lexicon_term""."
+NM-00904|OwnersData||"Key (organization)=(US Fish & Wildlife Service) is not present in table ""lexicon_term""."
+NM-26614|OwnersData||"Key (organization)=(National Park Service) is not present in table ""lexicon_term""."
+PB-0012|OwnersData||"Key (organization)=(Sile Municipal Domestic Water Assn.) is not present in table ""lexicon_term""."
+PB-0020|OwnersData||"Key (organization)=(Pena Blanca Water & Sanitation District) is not present in table ""lexicon_term""."
+PB-0020|OwnersData||"Key (organization)=(Pena Blanca Water & Sanitation District) is not present in table ""lexicon_term""."
+QU-004|OwnersData||"Key (organization)=(Town of Questa) is not present in table ""lexicon_term""."
+QU-004|OwnersData||"Key (organization)=(Town of Questa) is not present in table ""lexicon_term""."
+QU-036|OwnersData||"Key (organization)=(Lama MDWCA) is not present in table ""lexicon_term""."
+QU-036|OwnersData||"Key (organization)=(Lama MDWCA) is not present in table ""lexicon_term""."
+QU-164|OwnersData||"Key (organization)=(Town of Cerro) is not present in table ""lexicon_term""."
+QU-164|OwnersData||"Key (organization)=(Town of Cerro) is not present in table ""lexicon_term""."
+SA-0062|OwnersData||"Key (organization)=(Farr Cattle Company (Farr Ranch)) is not present in table ""lexicon_term""."
+TB-0097|OwnersData||"Key (organization)=(Carrizozo Orchard) is not present in table ""lexicon_term""."
+UC-0031|OwnersData||"Key (organization)=(USFS, Kiowa Grasslands) is not present in table ""lexicon_term""."
+WL-0002|OwnersData||"Key (organization)=(Cloud Country West Subdivision) is not present in table ""lexicon_term""."
+WL-0003|OwnersData||"Key (organization)=(Chama West Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0004|OwnersData||"Key (organization)=(El Rito Regional Water + Waste Water Association) is not present in table ""lexicon_term""."
+WL-0005|OwnersData||"Key (organization)=(West Rim MDWUA) is not present in table ""lexicon_term""."
+WL-0016|OwnersData||"Key (organization)=(Village of Willard) is not present in table ""lexicon_term""."
+WL-0016|OwnersData||"Key (organization)=(Village of Willard) is not present in table ""lexicon_term""."
+WL-0017|OwnersData||"Key (organization)=(Quemado Mutual Water and Sewage Works Association) is not present in table ""lexicon_term""."
+WL-0017|OwnersData||"Key (organization)=(Quemado Mutual Water and Sewage Works Association) is not present in table ""lexicon_term""."
+WL-0019|OwnersData||"Key (organization)=(Coyote Creek MDWUA) is not present in table ""lexicon_term""."
+WL-0019|OwnersData||"Key (organization)=(Coyote Creek MDWUA) is not present in table ""lexicon_term""."
+WL-0021|OwnersData||"Key (organization)=(Lamy Mutual Domestic Water Assn.) is not present in table ""lexicon_term""."
+WL-0021|OwnersData||"Key (organization)=(Lamy Mutual Domestic Water Assn.) is not present in table ""lexicon_term""."
+WL-0022|OwnersData||"Key (organization)=(La Joya CWDA) is not present in table ""lexicon_term""."
+WL-0022|OwnersData||"Key (organization)=(La Joya CWDA) is not present in table ""lexicon_term""."
+WL-0024|OwnersData||"Key (organization)=(NM Firefighters Training Academy) is not present in table ""lexicon_term""."
+WL-0024|OwnersData||"Key (organization)=(NM Firefighters Training Academy) is not present in table ""lexicon_term""."
+WL-0025|OwnersData||"Key (organization)=(Cebolleta Land Grant) is not present in table ""lexicon_term""."
+WL-0025|OwnersData||"Key (organization)=(Cebolleta Land Grant) is not present in table ""lexicon_term""."
+WL-0030|OwnersData||"Key (organization)=(Madrid Water Co-op) is not present in table ""lexicon_term""."
+WL-0040|OwnersData||"Key (organization)=(Sun Valley Water and Sanitation) is not present in table ""lexicon_term""."
+WL-0057|OwnersData||"Key (organization)=(Bluewater Lake MDWCA) is not present in table ""lexicon_term""."
+WL-0057|OwnersData||"Key (organization)=(Bluewater Lake MDWCA) is not present in table ""lexicon_term""."
+WL-0058|OwnersData||"Key (organization)=(Bluewater Acres Domestic Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0058|OwnersData||"Key (organization)=(Bluewater Acres Domestic Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0059|OwnersData||"Key (organization)=(Lybrook Municipal) is not present in table ""lexicon_term""."
+WL-0063|OwnersData||"Key (organization)=(New Mexico Museum of Natural History) is not present in table ""lexicon_term""."
+WL-0063|OwnersData||"Key (organization)=(New Mexico Museum of Natural History) is not present in table ""lexicon_term""."
+WL-0064|OwnersData||"Key (organization)=(Hillsboro Mutual Domestic Water Consumer Assn.) is not present in table ""lexicon_term""."
+WL-0064|OwnersData||"Key (organization)=(Hillsboro Mutual Domestic Water Consumer Assn.) is not present in table ""lexicon_term""."
+WL-0066|OwnersData||"Key (organization)=(Tyrone Mutual Domestic Water Assn.) is not present in table ""lexicon_term""."
+WL-0067|OwnersData||"Key (organization)=(Santa Clara Water System) is not present in table ""lexicon_term""."
+WL-0067|OwnersData||"Key (organization)=(Santa Clara Water System) is not present in table ""lexicon_term""."
+WL-0069|OwnersData||"Key (organization)=(Casas Adobes Mutual Domestic) is not present in table ""lexicon_term""."
+WL-0071|OwnersData||"Key (organization)=(Lake Roberts Water Assn.) is not present in table ""lexicon_term""."
+WL-0071|OwnersData||"Key (organization)=(Lake Roberts Water Assn.) is not present in table ""lexicon_term""."
+WL-0072|OwnersData||"Key (organization)=(El Creston MDWCA) is not present in table ""lexicon_term""."
+WL-0072|OwnersData||"Key (organization)=(El Creston MDWCA) is not present in table ""lexicon_term""."
+WL-0081|OwnersData||"Key (organization)=(New Mexico Tech - Playas) is not present in table ""lexicon_term""."
+WL-0081|OwnersData||"Key (organization)=(New Mexico Tech - Playas) is not present in table ""lexicon_term""."
+WL-0084|OwnersData||"Key (organization)=(Reserve Municipality Water Works) is not present in table ""lexicon_term""."
+WL-0086|OwnersData||"Key (organization)=(Bayard Municipal Water) is not present in table ""lexicon_term""."
+WL-0092|OwnersData||"Key (organization)=(Town of Estancia) is not present in table ""lexicon_term""."
+WL-0092|OwnersData||"Key (organization)=(Town of Estancia) is not present in table ""lexicon_term""."
+WL-0109|OwnersData||"Key (organization)=(Pie Town MDWCA) is not present in table ""lexicon_term""."
+WL-0109|OwnersData||"Key (organization)=(Pie Town MDWCA) is not present in table ""lexicon_term""."
+WL-0114|OwnersData||"Key (organization)=(Roosevelt Soil & Water Conservation District) is not present in table ""lexicon_term""."
+WL-0116|OwnersData||"Key (organization)=(Otis Mutual Domestic) is not present in table ""lexicon_term""."
+WL-0124|OwnersData||"Key (organization)=(White Cliffs MDWUA) is not present in table ""lexicon_term""."
+WL-0124|OwnersData||"Key (organization)=(White Cliffs MDWUA) is not present in table ""lexicon_term""."
+WL-0138|OwnersData||"Key (organization)=(Tesuque Village Water Association) is not present in table ""lexicon_term""."
+WL-0138|OwnersData||"Key (organization)=(Tesuque Village Water Association) is not present in table ""lexicon_term""."
+WL-0140|OwnersData||"Key (organization)=(Vista Linda Water Co-op) is not present in table ""lexicon_term""."
+WL-0144|OwnersData||"Key (organization)=(Anasazi Trails Water Cooperative) is not present in table ""lexicon_term""."
+WL-0144|OwnersData||"Key (organization)=(Anasazi Trails Water Cooperative) is not present in table ""lexicon_term""."
+WL-0151|OwnersData||"Key (organization)=(Canon Mutual Domestic Water Consumer Assn.) is not present in table ""lexicon_term""."
+WL-0152|OwnersData||"Key (organization)=(Sierra Los Pinos Property Owners Assn.) is not present in table ""lexicon_term""."
+WL-0152|OwnersData||"Key (organization)=(Sierra Los Pinos Property Owners Assn.) is not present in table ""lexicon_term""."
+WL-0155|OwnersData||"Key (organization)=(Placitas Trails Water Coop) is not present in table ""lexicon_term""."
+WL-0155|OwnersData||"Key (organization)=(Placitas Trails Water Coop) is not present in table ""lexicon_term""."
+WL-0163|OwnersData||"Key (organization)=(BLM, Roswell Office) is not present in table ""lexicon_term""."
+WL-0183|OwnersData||"Key (organization)=(Forked Lightning Ranch) is not present in table ""lexicon_term""."
+WL-0183|OwnersData||"Key (organization)=(Forked Lightning Ranch) is not present in table ""lexicon_term""."
+WL-0186|OwnersData||"Key (organization)=(Pecos National Historical Park, NPS) is not present in table ""lexicon_term""."
+WL-0186|OwnersData||"Key (organization)=(Pecos National Historical Park, NPS) is not present in table ""lexicon_term""."
+WL-0199|OwnersData||"Key (organization)=(Cottonwood Rural Water Assn.) is not present in table ""lexicon_term""."
+WL-0199|OwnersData||"Key (organization)=(Cottonwood Rural Water Assn.) is not present in table ""lexicon_term""."
+WL-0213|OwnersData||"Key (organization)=(Pinon Ridge Water Users Association) is not present in table ""lexicon_term""."
+WL-0221|OwnersData||"Key (organization)=(McSherry Farms) is not present in table ""lexicon_term""."
+WL-0229|OwnersData||"Key (organization)=(Agua Sana Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0229|OwnersData||"Key (organization)=(Agua Sana Water Users Assn.) is not present in table ""lexicon_term""."
+WL-0231|OwnersData||"Key (organization)=(Chamita Water Users Association) is not present in table ""lexicon_term""."
+WL-0236|OwnersData||"Key (organization)=(W Spear-bar Ranch) is not present in table ""lexicon_term""."
+WL-0236|OwnersData||"Key (organization)=(W Spear-bar Ranch) is not present in table ""lexicon_term""."
+WL-0242|OwnersData||"Key (organization)=(Village of Capitan) is not present in table ""lexicon_term""."
+WL-0246|OwnersData||"Key (organization)=(Brazos Mutual Domestic Water Consumers Assn.) is not present in table ""lexicon_term""."
+WL-0246|OwnersData||"Key (organization)=(Brazos Mutual Domestic Water Consumers Assn.) is not present in table ""lexicon_term""."
+WL-0257|OwnersData||"Key (organization)=(National Park Service) is not present in table ""lexicon_term""."
+WL-0261|OwnersData||"Key (organization)=(Alto Alps Homeowners Association) is not present in table ""lexicon_term""."
+WL-0261|OwnersData||"Key (organization)=(Alto Alps Homeowners Association) is not present in table ""lexicon_term""."
+WL-0278|OwnersData||"Key (organization)=(Chiricahua Desert Museum) is not present in table ""lexicon_term""."
+WL-0278|OwnersData||"Key (organization)=(Chiricahua Desert Museum) is not present in table ""lexicon_term""."
+WL-0280|OwnersData||"Key (organization)=(Bike Ranch) is not present in table ""lexicon_term""."
+WL-0281|OwnersData||"Key (organization)=(Hachita MDWCA) is not present in table ""lexicon_term""."
+WL-0281|OwnersData||"Key (organization)=(Hachita MDWCA) is not present in table ""lexicon_term""."
+WL-0323|OwnersData||"Key (organization)=(Carrizozo Municipal Water) is not present in table ""lexicon_term""."
+WL-0323|OwnersData||"Key (organization)=(Carrizozo Municipal Water) is not present in table ""lexicon_term""."
+WL-0327|OwnersData||"Key (organization)=(Dunhill Ranch) is not present in table ""lexicon_term""."
+WL-0327|OwnersData||"Key (organization)=(Dunhill Ranch) is not present in table ""lexicon_term""."
+WL-0331|OwnersData||"Key (organization)=(Santa Fe Conservation Trust) is not present in table ""lexicon_term""."
+
+Manual Water Levels|406136|7519|7518|0.013299640909695438
+PointID|Table|Field|Error
+
+Pressure Transducer|2540888|1771301|1306045|26.266343213265277
+PointID|Table|Field|Error
+NM-00643|||"(pg8000.dbapi.IntegrityError) {'S': 'ERROR', 'V': 'ERROR', 'C': '23505', 'M': 'duplicate key value violates unique constraint ""uq_transducer_block_status_parameter_time""', 'D': 'Key (review_status, parameter_id, start_datetime, end_datetime)=(approved, 1, 2022-04-19 12:00:00+00, 2024-04-15 12:00:00+00) already exists.', 's': 'public', 't': 'transducer_observation_block', 'n': 'uq_transducer_block_status_parameter_time', 'F': 'nbtinsert.c', 'L': '666', 'R': '_bt_check_unique'}
+[SQL: INSERT INTO transducer_observation_block (parameter_id, review_status, start_datetime, end_datetime, comment, reviewer_id, created_by_name, created_by_id, updated_by_name, updated_by_id, release_status) VALUES (%s::INTEGER, %s::VARCHAR, %s::TIMESTAMP WITH TIME ZONE, %s::TIMESTAMP WITH TIME ZONE, %s::VARCHAR, %s::INTEGER, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR) RETURNING transducer_observation_block.id, transducer_observation_block.created_at]
+[parameters: (1, 'approved', Timestamp('2022-04-19 12:00:00'), Timestamp('2024-04-15 12:00:00'), None, None, None, None, None, None, 'draft')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)"
+SO-0130|||"(pg8000.dbapi.IntegrityError) {'S': 'ERROR', 'V': 'ERROR', 'C': '23505', 'M': 'duplicate key value violates unique constraint ""uq_transducer_block_status_parameter_time""', 'D': 'Key (review_status, parameter_id, start_datetime, end_datetime)=(approved, 1, 2016-07-08 01:00:00+00, 2018-11-29 10:00:00+00) already exists.', 's': 'public', 't': 'transducer_observation_block', 'n': 'uq_transducer_block_status_parameter_time', 'F': 'nbtinsert.c', 'L': '666', 'R': '_bt_check_unique'}
+[SQL: INSERT INTO transducer_observation_block (parameter_id, review_status, start_datetime, end_datetime, comment, reviewer_id, created_by_name, created_by_id, updated_by_name, updated_by_id, release_status) VALUES (%s::INTEGER, %s::VARCHAR, %s::TIMESTAMP WITH TIME ZONE, %s::TIMESTAMP WITH TIME ZONE, %s::VARCHAR, %s::INTEGER, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR) RETURNING transducer_observation_block.id, transducer_observation_block.created_at]
+[parameters: (1, 'approved', Timestamp('2016-07-08 01:00:00'), Timestamp('2018-11-29 10:00:00'), None, None, None, None, None, None, 'draft')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)"
+SO-0132|||"(pg8000.dbapi.IntegrityError) {'S': 'ERROR', 'V': 'ERROR', 'C': '23505', 'M': 'duplicate key value violates unique constraint ""uq_transducer_block_status_parameter_time""', 'D': 'Key (review_status, parameter_id, start_datetime, end_datetime)=(approved, 1, 2016-07-08 01:00:00+00, 2022-02-19 12:00:00+00) already exists.', 's': 'public', 't': 'transducer_observation_block', 'n': 'uq_transducer_block_status_parameter_time', 'F': 'nbtinsert.c', 'L': '666', 'R': '_bt_check_unique'}
+[SQL: INSERT INTO transducer_observation_block (parameter_id, review_status, start_datetime, end_datetime, comment, reviewer_id, created_by_name, created_by_id, updated_by_name, updated_by_id, release_status) VALUES (%s::INTEGER, %s::VARCHAR, %s::TIMESTAMP WITH TIME ZONE, %s::TIMESTAMP WITH TIME ZONE, %s::VARCHAR, %s::INTEGER, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR) RETURNING transducer_observation_block.id, transducer_observation_block.created_at]
+[parameters: (1, 'approved', Timestamp('2016-07-08 01:00:00'), Timestamp('2022-02-19 12:00:00'), None, None, None, None, None, None, 'draft')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)"
+SO-0216|||no deployments
+SO-0216|||no deployments
+SO-0251|||"(pg8000.dbapi.IntegrityError) {'S': 'ERROR', 'V': 'ERROR', 'C': '23505', 'M': 'duplicate key value violates unique constraint ""uq_transducer_block_status_parameter_time""', 'D': 'Key (review_status, parameter_id, start_datetime, end_datetime)=(approved, 1, 2021-01-13 13:00:00+00, 2022-08-03 13:00:00+00) already exists.', 's': 'public', 't': 'transducer_observation_block', 'n': 'uq_transducer_block_status_parameter_time', 'F': 'nbtinsert.c', 'L': '666', 'R': '_bt_check_unique'}
+[SQL: INSERT INTO transducer_observation_block (parameter_id, review_status, start_datetime, end_datetime, comment, reviewer_id, created_by_name, created_by_id, updated_by_name, updated_by_id, release_status) VALUES (%s::INTEGER, %s::VARCHAR, %s::TIMESTAMP WITH TIME ZONE, %s::TIMESTAMP WITH TIME ZONE, %s::VARCHAR, %s::INTEGER, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR) RETURNING transducer_observation_block.id, transducer_observation_block.created_at]
+[parameters: (1, 'approved', Timestamp('2021-01-13 13:00:00'), Timestamp('2022-08-03 13:00:00'), None, None, None, None, None, None, 'draft')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)"
+SO-0252|||no deployments
+SO-0252|||no deployments
+TV-157|||"(pg8000.dbapi.IntegrityError) {'S': 'ERROR', 'V': 'ERROR', 'C': '23505', 'M': 'duplicate key value violates unique constraint ""uq_transducer_block_status_parameter_time""', 'D': 'Key (review_status, parameter_id, start_datetime, end_datetime)=(approved, 1, 2011-06-14 12:00:00+00, 2024-10-15 12:00:00+00) already exists.', 's': 'public', 't': 'transducer_observation_block', 'n': 'uq_transducer_block_status_parameter_time', 'F': 'nbtinsert.c', 'L': '666', 'R': '_bt_check_unique'}
+[SQL: INSERT INTO transducer_observation_block (parameter_id, review_status, start_datetime, end_datetime, comment, reviewer_id, created_by_name, created_by_id, updated_by_name, updated_by_id, release_status) VALUES (%s::INTEGER, %s::VARCHAR, %s::TIMESTAMP WITH TIME ZONE, %s::TIMESTAMP WITH TIME ZONE, %s::VARCHAR, %s::INTEGER, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR) RETURNING transducer_observation_block.id, transducer_observation_block.created_at]
+[parameters: (1, 'approved', Timestamp('2011-06-14 12:00:00'), Timestamp('2024-10-15 12:00:00'), None, None, None, None, None, None, 'draft')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)"
+TV-196|||"(pg8000.dbapi.IntegrityError) {'S': 'ERROR', 'V': 'ERROR', 'C': '23505', 'M': 'duplicate key value violates unique constraint ""uq_transducer_block_status_parameter_time""', 'D': 'Key (review_status, parameter_id, start_datetime, end_datetime)=(approved, 1, 2011-06-14 12:00:00+00, 2024-10-15 12:00:00+00) already exists.', 's': 'public', 't': 'transducer_observation_block', 'n': 'uq_transducer_block_status_parameter_time', 'F': 'nbtinsert.c', 'L': '666', 'R': '_bt_check_unique'}
+[SQL: INSERT INTO transducer_observation_block (parameter_id, review_status, start_datetime, end_datetime, comment, reviewer_id, created_by_name, created_by_id, updated_by_name, updated_by_id, release_status) VALUES (%s::INTEGER, %s::VARCHAR, %s::TIMESTAMP WITH TIME ZONE, %s::TIMESTAMP WITH TIME ZONE, %s::VARCHAR, %s::INTEGER, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR, %s::VARCHAR) RETURNING transducer_observation_block.id, transducer_observation_block.created_at]
+[parameters: (1, 'approved', Timestamp('2011-06-14 12:00:00'), Timestamp('2024-10-15 12:00:00'), None, None, None, None, None, None, 'draft')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)"
+AR-0156|||no deployment between 2017-03-13 01:00:00 and 2017-05-30 13:00:00
+AR-0181|||no deployment between 2020-09-09 02:00:00 and 2020-09-09 08:00:00
+AR-0209|||no deployment between 2018-03-28 01:00:00 and 2018-03-28 12:00:00
+EB-305|||no deployment between 2021-04-15 02:00:00 and 2021-04-15 02:00:00
+NM-26614|||no deployment between 2017-08-17 12:00:00 and 2017-08-17 12:00:00
+SA-0174|||no deployment between 2012-03-16 01:00:00 and 2012-03-16 09:00:00
+SM-0033|||no deployment between 2011-06-09 03:00:00 and 2011-06-09 09:00:00
+SM-0055|||no deployment between 2009-08-11 03:00:00 and 2014-01-23 12:00:00
+SM-0232|||no deployment between 2009-11-15 00:00:00 and 2020-12-15 12:00:00
+SM-0243|||no deployment between 2008-10-14 01:00:00 and 2008-10-14 12:00:00
+SM-0246|||no deployment between 2008-10-14 01:00:00 and 2012-12-24 18:00:00
+SO-0126|||no deployment between 2018-11-29 02:00:00 and 2018-11-29 10:00:00
+SO-0127|||no deployment between 2018-11-29 02:00:00 and 2018-11-29 10:00:00
+SO-0130|||no deployment between 2018-11-29 02:00:00 and 2018-11-29 10:00:00
+SO-0132|||no deployment between 2018-11-29 02:00:00 and 2022-02-19 12:00:00
+SO-0167|||no deployment between 2018-11-29 02:00:00 and 2018-11-29 12:00:00
+SO-0168|||no deployment between 2018-11-29 02:00:00 and 2018-11-29 12:00:00
+SO-0171|||no deployment between 2022-02-25 01:00:00 and 2022-02-25 11:00:00
+SO-0218|||no deployment between 2020-12-22 01:00:00 and 2020-12-22 12:00:00
+SO-0219|||no deployment between 2021-09-07 15:45:00 and 2022-08-03 14:15:00
+SO-0221|||no deployment between 2022-08-03 01:00:00 and 2022-08-03 08:00:00
+SO-0227|||no deployment between 2020-12-22 01:00:00 and 2020-12-22 11:00:00
+SO-0244|||no deployment between 2022-08-03 01:00:00 and 2022-08-03 13:00:00
+SO-0245|||no deployment between 2017-08-03 12:15:00 and 2022-08-03 13:00:00
+SO-0246|||no deployment between 2016-07-23 15:15:00 and 2022-08-03 13:00:00
+SO-0250|||no deployment between 2019-12-10 01:00:00 and 2022-08-03 13:00:00
+SO-0251|||no deployment between 2022-08-03 01:00:00 and 2022-08-03 13:00:00
+TB-0002|||no deployment between 2011-06-09 01:00:00 and 2011-06-09 10:00:00
+TB-0044|||no deployment between 2011-06-09 03:00:00 and 2011-06-09 12:00:00
+TB-0055|||no deployment between 2011-06-09 04:00:00 and 2011-06-09 12:00:00
+TB-0059|||no deployment between 2011-03-02 04:00:00 and 2011-03-02 16:00:00
+TB-0071|||no deployment between 2009-09-10 15:00:00 and 2017-02-02 12:00:00
+TB-0084|||no deployment between 2017-09-18 12:00:00 and 2017-09-18 12:00:00
+TB-0203|||no deployment between 2011-06-08 03:00:00 and 2011-06-08 12:00:00
+TV-192|||no deployment between 2013-09-05 12:00:00 and 2013-09-05 12:00:00
+TV-211|||no deployment between 2012-11-09 12:00:00 and 2012-11-09 12:00:00
+WS-007|||no deployment between 2009-08-18 19:09:00 and 2010-01-06 23:09:00
+WS-010|||no deployment between 2009-08-06 23:38:00 and 2010-01-06 23:38:00
+
+Acoustic Sounder|485263|485263|406155|16.302087733868024
+PointID|Table|Field|Error
+WL-0037|||no deployments
+WL-0037|||no deployments
+MG-009|||no deployment between 2018-06-06 01:47:00 and 2018-06-06 13:46:00
+SA-0135|||no deployment between 2018-06-11 00:18:10 and 2018-06-11 12:17:36
+WL-0001|||no deployment between 2022-01-28 01:46:00 and 2025-02-05 17:33:44
+WL-0002|||no deployment between 2022-01-19 07:29:00 and 2022-01-19 15:28:00
+WL-0013|||no deployment between 2022-06-30 01:11:00 and 2022-06-30 17:10:00
+WL-0022|||no deployment between 2020-04-24 00:10:00 and 2020-04-24 08:10:00
+WL-0032|||no deployment between 2019-09-05 03:07:00 and 2019-09-05 19:07:00
+WL-0058|||no deployment between 2018-03-16 03:57:29 and 2018-06-11 14:25:12
+WL-0064|||no deployment between 2019-10-08 01:57:00 and 2021-04-13 14:36:00
+WL-0077|||no deployment between 2018-05-08 03:37:14 and 2018-05-08 15:36:42
+WL-0151|||no deployment between 2019-02-28 03:53:24 and 2019-03-20 11:31:58
+WL-0187|||no deployment between 2021-04-29 04:37:00 and 2024-10-19 00:22:02
+WL-0213|||no deployment between 2021-09-11 07:41:25 and 2021-09-11 07:41:25
+

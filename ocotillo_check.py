@@ -157,7 +157,7 @@ def main():
 
     service.spreadsheets().values().update(
         spreadsheetId=SPREADSHEET_ID,
-        range=f"'{FIELDPAIRS_SHEET_NAME}'!O1:Q5",
+        range=f"'{FIELDPAIRS_SHEET_NAME}'!H1:J5",
         valueInputOption="RAW",
         body={"values": summary_values}
     ).execute()
